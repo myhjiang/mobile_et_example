@@ -47,8 +47,16 @@ Detailed descriptions can be found within the notebooks.
 
 ## Example visualizations
 **the plots folder contains all the plots generated in the notebooks (as static png)**  
-- fixations on a map 
+**a few examples are listed below**  
+
+
+- fixations on a map   
+
 ![fixation on a map](https://github.com/myhjiang/mobile_et_example/blob/master/plots/fixation_gps.PNG)  
-- fixations and protocols on the same timeline
+
+
+- fixations and protocols on the same timeline  
+
+
 ![fixation and protocols](https://github.com/myhjiang/mobile_et_example/blob/master/plots/fixation_protocol.PNG)
 
