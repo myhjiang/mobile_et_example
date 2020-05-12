@@ -35,6 +35,7 @@ The data folder contains:
 - `location_combined.ipynb` exploring fixations and protocols together with location data 
 
 Detailed descriptions can be found within the notebooks.
+***GitHub cannot show Plot.ly interactive plots properly in Notebooks. It's recommanded to use those notebooks locally***
 
 ### Notebook dependencies
 
@@ -45,5 +46,9 @@ Detailed descriptions can be found within the notebooks.
 - bisect
 
 ## Example visualizations
-
+**the plots folder contains all the plots generated in the notebooks (as static png)**  
+- fixations on a map 
+![fixation on a map](https://github.com/myhjiang/mobile_et_example/blob/master/plots/fixation_gps.PNG)  
+- fixations and protocols on the same timeline
+![fixation and protocols](https://github.com/myhjiang/mobile_et_example/blob/master/plots/fixation_protocol.PNG)
 
