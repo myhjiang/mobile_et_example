@@ -1,0 +1,929 @@
+Recording timestamp	Eye movement type index	Gaze event duration	Fixation point X	Fixation point Y	target	phone_x	phone_y	best_match	screentime	new_target	protocol	ta_start	ta_dur
+119832.0	105	620.0	1007.0	509.0	surroundings				0	surroundings	 so I'm confused right now.	120784.0	1200.0
+120222.0	106	400.0	857.0	356.0	cell phone	0.974220009342842	0.21027674346517908	map_ar_2.jpg	88	map_ar	 so I'm confused right now.	120784.0	1200.0
+120842.0	107	80.0	1678.0	11.0	surroundings				0	surroundings	 What this means.	121984.0	1960.0
+121262.0	108	440.0	811.0	514.0	cell phone	0.5730071502536358	0.16108888051996584	map_ar_2.jpg	1128	map_ar	 What this means.	121984.0	1960.0
+123471.0	109	3799.0	919.0	312.0	cell phone	0.8880172560057791	0.12989019640944974	map_ar_2.jpg	3337	map_ar	 What I want to tell you this way has he won't be alive.	126004.0	2770.0
+126541.0	110	2280.0	920.0	395.0	cell phone	0.6706999627081883	0.6287369360479012	map_ar_2.jpg	6407	map_ar	 More Pio eyes.	129334.0	690.0
+128140.0	111	880.0	930.0	259.0	cell phone	0.769060422970376	0.16403669658159273	map_ar_2.jpg	8006	map_ar	 More Pio eyes.	129334.0	690.0
+129480.0	112	1760.0	980.0	352.0	cell phone	0.7752740557791518	0.043050531612662736	map_ar_2.jpg	9346	map_ar	 Okay , so I'm trying to navigate to the first point , and I'm actually kind of finding the virtual reality distracting.	130024.0	21020.0
+130910.0	113	880.0	1070.0	271.0	cell phone	0.7785319783996459	0.05470699454858191	map_ar_2.jpg	10776	map_ar	 Um augmented.	151884.0	3760.0
+131620.0	114	520.0	989.0	269.0	cell phone	0.4896551724137931	0.06923076923076922	map_ar_2.jpg	11486	map_ar	 Um augmented.	151884.0	3760.0
+133599.0	115	400.0	942.0	426.0	cell phone	0.2032670706569652	0.19245918600282072	map_ar_2.jpg	13465	map_ar	 Um augmented.	151884.0	3760.0
+134359.0	116	1080.0	958.0	245.0	building				0	building	 Um augmented.	151884.0	3760.0
+135079.0	117	320.0	988.0	203.0	cell phone	0.8105524883168236	0.0736460061561993	map_ar_2.jpg	14945	map_ar	 Um augmented.	151884.0	3760.0
+135569.0	118	100.0	920.0	222.0	cell phone	0.4034796759389985	0.07255578389305055	map_ar_2.jpg	15435	map_ar	 Um augmented.	151884.0	3760.0
+135938.0	119	600.0	996.0	238.0	cell phone	0.4381270903010033	0.11708253358925146	map_ar_2.jpg	15804	map_ar	 Um augmented.	151884.0	3760.0
+137378.0	120	160.0	1188.0	403.0	cell phone	0.5671587023735541	0.3792659163410897	map_ar_2.jpg	17244	map_ar	 Um augmented.	151884.0	3760.0
+137798.0	121	640.0	992.0	412.0	cell phone	0.7062402300371129	0.5667766472190329	map_ar_2.jpg	17664	map_ar	 Um augmented.	151884.0	3760.0
+138218.0	122	160.0	1067.0	304.0	cell phone	0.8638494760526538	0.18879173029466845	map_ar_2.jpg	18084	map_ar	 Um augmented.	151884.0	3760.0
+138528.0	123	420.0	993.0	295.0	cell phone	0.5335689045936396	0.06395348837209303	map_ar_2.jpg	18394	map_ar	 Um augmented.	151884.0	3760.0
+139398.0	124	280.0	1045.0	319.0	cell phone	0.7721518987341772	0.16306483300589392	map_ar_2.jpg	19264	map_ar	 Um augmented.	151884.0	3760.0
+140848.0	125	220.0	1017.0	198.0	cell phone	0.8784549384654512	0.13256722375404087	map_ar_2.jpg	20714	map_ar	 Um augmented.	151884.0	3760.0
+141018.0	126	80.0	1079.0	356.0	cell phone	0.9190709973346144	0.4016516951333146	map_ar_2.jpg	20884	map_ar	 Um augmented.	151884.0	3760.0
+141177.0	127	200.0	983.0	368.0	cell phone	0.4985456815816266	0.4796609569438866	map_ar_2.jpg	21043	map_ar	 Um augmented.	151884.0	3760.0
+141407.0	128	180.0	1164.0	344.0	surroundings				0	surroundings	 Um augmented.	151884.0	3760.0
+141737.0	129	160.0	1094.0	253.0	cell phone	0.951543870555499	0.1351384480832166	map_ar_2.jpg	21603	map_ar	 Um augmented.	151884.0	3760.0
+142117.0	130	80.0	868.0	481.0	surroundings				0	surroundings	 Um augmented.	151884.0	3760.0
+144157.0	131	360.0	1018.0	395.0	cell phone	0.9408450704225352	0.5475352112676056	map_ar_2.jpg	24023	map_ar	 Um augmented.	151884.0	3760.0
+146626.0	132	220.0	1002.0	273.0	cell phone	0.5829495604459289	0.15185095974612225	map_ar_2.jpg	26492	map_ar	 Um augmented.	151884.0	3760.0
+147196.0	133	80.0	793.0	219.0	surroundings				0	surroundings	 Um augmented.	151884.0	3760.0
+148636.0	134	1280.0	924.0	326.0	cell phone	0.5971428571428572	0.3057090239410681	map_ar_2.jpg	28502	map_ar	 Um augmented.	151884.0	3760.0
+149945.0	135	1140.0	993.0	250.0	cell phone	0.7044503867463392	0.09937355188672667	map_ar_2.jpg	29811	map_ar	 Um augmented.	151884.0	3760.0
+150755.0	136	440.0	1125.0	238.0	cell phone	0.9317532719280712	0.18500297854788653	map_ar_2.jpg	30621	map_ar	 Um augmented.	151884.0	3760.0
+151555.0	137	1120.0	1034.0	285.0	cell phone	0.7654452393401687	0.09486492392339127	map_ar_2.jpg	31421	map_ar	 Um augmented.	151884.0	3760.0
+152715.0	138	160.0	1015.0	15.0	building				0	building	 Yeah.	155644.0	330.0
+153334.0	139	360.0	959.0	452.0	cell phone	0.6736310636599148	0.2239918021408165	map_ar_2.jpg	33200	map_ar	 Yeah.	155644.0	330.0
+153924.0	140	780.0	907.0	219.0	cell phone	0.8009890627776498	0.09915124961897716	map_ar_2.jpg	33790	map_ar	 Yeah.	155644.0	330.0
+154604.0	141	380.0	901.0	259.0	cell phone	0.6675136639240711	0.11617407116156445	map_ar_2.jpg	34470	map_ar	 Yeah.	155644.0	330.0
+155174.0	142	520.0	923.0	273.0	cell phone	0.52785921549604	0.14362121198515798	map_ar_2.jpg	35040	map_ar	 Yeah.	155644.0	330.0
+155614.0	143	320.0	1031.0	205.0	cell phone	0.8968081347437336	0.09721405964304353	map_ar_2.jpg	35480	map_ar	 Yeah.	155644.0	330.0
+156554.0	144	1520.0	912.0	240.0	cell phone	0.5790697674418605	0.09023941068139964	map_ar_2.jpg	36420	map_ar	 Just because Aiken it's clear that there's things off into the distance that are in front of me , but that I can't I can't actually see.	156934.0	10520.0
+157674.0	145	600.0	952.0	320.0	cell phone	0.7545513156033639	0.641431009227745	map_ar_2.jpg	37540	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+158253.0	146	480.0	949.0	129.0	cell phone	0.6408984978206024	0.10366078578374498	map_ar_2.jpg	38119	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+158703.0	147	300.0	977.0	233.0	cell phone	0.8209652539018709	0.15491001559628667	map_ar_2.jpg	38569	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+159633.0	148	1400.0	972.0	207.0	cell phone	0.6697542326801279	0.1150964999059693	map_ar_2.jpg	39499	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+160833.0	149	700.0	902.0	294.0	cell phone	0.7201508899241128	0.17180980694552314	map_ar_2.jpg	40699	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+161363.0	150	340.0	871.0	244.0	cell phone	0.6010526292523917	0.195766515998902	map_ar_2.jpg	41229	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+161972.0	151	780.0	947.0	371.0	cell phone	0.7051793954026825	0.6006776964121212	map_ar_2.jpg	41838	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+162442.0	152	100.0	918.0	215.0	cell phone	0.7026745539241229	0.302728179055714	map_ar_2.jpg	42308	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+162682.0	153	340.0	899.0	113.0	cell phone	0.654943879650329	0.09294061406198886	map_ar_2.jpg	42548	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+163052.0	154	240.0	938.0	262.0	cell phone	0.8077768755047894	0.16723962860938954	map_ar_2.jpg	42918	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+163442.0	155	500.0	811.0	197.0	cell phone	0.2907153446046762	0.14493507528141447	map_ar_2.jpg	43308	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+164012.0	156	480.0	910.0	222.0	cell phone	0.6012786710030092	0.17713035383901926	map_ar_2.jpg	43878	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+164462.0	157	300.0	989.0	428.0	cell phone	0.6781376476649064	0.6414116414188347	map_ar_2.jpg	44328	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+164882.0	158	380.0	963.0	360.0	cell phone	0.6894285846086989	0.605925540757845	map_ar_2.jpg	44748	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+165312.0	159	400.0	928.0	151.0	cell phone	0.7483374779957009	0.16575398713616862	map_ar_2.jpg	45178	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+165752.0	160	400.0	939.0	445.0	cell phone	0.6929479347504696	0.4751776384584232	map_ar_2.jpg	45618	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+166331.0	161	520.0	930.0	413.0	cell phone	0.6941967162207849	0.6102486824501364	map_ar_2.jpg	46197	map_ar	 And so it's hard for me to determine which , which is which , as I'm looking forward , which is maybe only five leave.	167454.0	11160.0
+167531.0	162	1640.0	908.0	228.0	cell phone	0.6899085379536769	0.1822372459819013	map_ar_2.jpg	47397	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+169461.0	163	1980.0	982.0	267.0	cell phone	0.7797619047619048	0.1020408163265306	map_ar_2.jpg	49327	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+170721.0	164	460.0	957.0	417.0	cell phone	0.6672485163316451	0.5490765351063908	map_ar_2.jpg	50587	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+171320.0	165	680.0	974.0	214.0	cell phone	0.6307222890512783	0.14699534852850354	map_ar_2.jpg	51186	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+172450.0	166	1540.0	899.0	269.0	cell phone	0.4205858889625824	0.15418879473823002	map_ar_2.jpg	52316	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+174620.0	167	2659.0	833.0	195.0	cell phone	0.3204558171033593	0.1261837634510821	map_ar_2.jpg	54486	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+177339.0	168	2459.0	887.0	209.0	cell phone	0.4151742573353742	0.22130085062595786	map_ar_2.jpg	57205	map_ar	 Yeah , I'm gonna do that.	180134.0	2240.0
+180258.0	169	3319.0	916.0	265.0	cell phone	0.4258323386289293	0.14253918639303206	map_ar_2.jpg	60124	map_ar	 Okay.	185734.0	410.0
+183028.0	170	2219.0	866.0	260.0	cell phone	0.2853602599054615	0.12572067367477152	map_ar_2.jpg	62894	map_ar	 Okay.	185734.0	410.0
+184388.0	171	400.0	854.0	390.0	cell phone	0.22030101120270346	0.3384931652348075	map_ar_2.jpg	64254	map_ar	 Okay.	185734.0	410.0
+185387.0	172	1560.0	934.0	263.0	cell phone	0.5810589505933778	0.15604607809706486	map_ar_2.jpg	65253	map_ar	 Okay.	185734.0	410.0
+186497.0	173	540.0	963.0	458.0	cell phone	0.6831385392193702	0.6303568370218624	map_ar_2.jpg	66363	map_ar	 And so it looks okay.	187974.0	5380.0
+187257.0	174	900.0	838.0	157.0	surroundings				0	surroundings	 And so it looks okay.	187974.0	5380.0
+188247.0	175	1040.0	930.0	229.0	cell phone	0.5024792112678852	0.12547508487235404	map_ar_2.jpg	68113	map_ar	 That's interesting.	198014.0	870.0
+189086.0	176	520.0	967.0	427.0	cell phone	0.6066118343839125	0.6500966838959681	map_ar_2.jpg	68952	map_ar	 That's interesting.	198014.0	870.0
+189606.0	177	440.0	925.0	114.0	cell phone	0.49615779163473	0.1403874346434562	map_ar_2.jpg	69472	map_ar	 That's interesting.	198014.0	870.0
+190156.0	178	540.0	952.0	366.0	cell phone	0.5228157429940031	0.6088525932714763	map_ar_2.jpg	70022	map_ar	 That's interesting.	198014.0	870.0
+190546.0	179	160.0	929.0	125.0	cell phone	0.5120848552771096	0.1859330734600491	map_ar_2.jpg	70412	map_ar	 That's interesting.	198014.0	870.0
+191016.0	180	720.0	850.0	35.0	surroundings				0	surroundings	 That's interesting.	198014.0	870.0
+191986.0	181	1060.0	972.0	382.0	cell phone	0.5912383608507998	0.6302299395599615	info_menzis.jpg	71852	info	 That's interesting.	198014.0	870.0
+193925.0	182	2639.0	949.0	192.0	cell phone	0.6011406714353388	0.1319315015012855	map_ar_2.jpg	73791	map_ar	 That's interesting.	198014.0	870.0
+195355.0	183	140.0	942.0	363.0	cell phone	0.5120866652554754	0.42991673456962937	map_ar_2.jpg	75221	map_ar	 That's interesting.	198014.0	870.0
+195685.0	184	480.0	957.0	167.0	cell phone	0.5937066644526878	0.12031052543813275	map_ar_2.jpg	75551	map_ar	 That's interesting.	198014.0	870.0
+196345.0	185	600.0	951.0	183.0	cell phone	0.6416859395494635	0.1333035777952776	map_ar_2.jpg	76211	map_ar	 That's interesting.	198014.0	870.0
+196834.0	186	340.0	834.0	167.0	surroundings				0	surroundings	 That's interesting.	198014.0	870.0
+197444.0	187	800.0	956.0	201.0	cell phone	0.5473221176249983	0.1282412279836806	info_menzis.jpg	77310	info	 That's interesting.	198014.0	870.0
+199214.0	188	2499.0	971.0	209.0	cell phone	0.6656524057958709	0.15244349102169533	map_ar_2.jpg	79080	map_ar	 There's a highlighting when I selected it.	201144.0	4990.0
+201503.0	189	1920.0	911.0	239.0	cell phone	0.6669646383253369	0.10436885657904764	map_ar_2.jpg	81369	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+202573.0	190	180.0	790.0	159.0	surroundings				0	surroundings	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+202933.0	191	500.0	916.0	213.0	cell phone	0.5833003939469442	0.14187787458798112	map_ar_2.jpg	82799	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+203393.0	192	260.0	914.0	228.0	cell phone	0.5762650389188035	0.15429159206504545	map_ar_2.jpg	83259	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+203723.0	193	360.0	803.0	186.0	surroundings				0	surroundings	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+204253.0	194	620.0	1035.0	228.0	cell phone	0.9168436785358679	0.1333682576340606	map_ar_2.jpg	84119	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+205232.0	195	1140.0	900.0	253.0	cell phone	0.5325684025513902	0.12875186779618994	map_ar_2.jpg	85098	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+206082.0	196	200.0	945.0	451.0	cell phone	0.6077490013358428	0.5033720330761629	map_ar_2.jpg	85948	map_ar	 Highlights that doesn't highlight on the map.	206134.0	3410.0
+206402.0	197	360.0	924.0	207.0	cell phone	0.4641562057008207	0.2124270204272184	map_ar_2.jpg	86268	map_ar	 So I can't be certain which one I've actually selected here.	210634.0	4830.0
+208092.0	198	2940.0	906.0	321.0	cell phone	0.4885754886839072	0.5242595175357533	map_ar_2.jpg	87958	map_ar	 So I can't be certain which one I've actually selected here.	210634.0	4830.0
+209672.0	199	140.0	919.0	22.0	cell phone	0.5236440918658486	0.02511205989385716	map_ar_2.jpg	89538	map_ar	 So I can't be certain which one I've actually selected here.	210634.0	4830.0
+210221.0	200	280.0	1000.0	9.0	surroundings				0	surroundings	 So I can't be certain which one I've actually selected here.	210634.0	4830.0
+210911.0	201	700.0	916.0	281.0	cell phone	0.4855411198353047	0.4661252462145186	map_ar_2.jpg	90777	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+212031.0	202	1440.0	923.0	293.0	cell phone	0.5321793027010627	0.4833156760799108	map_ar_2.jpg	91897	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+212971.0	203	380.0	913.0	85.0	cell phone	0.5331796710762263	0.10610977809387816	map_ar_2.jpg	92837	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+213581.0	204	800.0	977.0	143.0	cell phone	0.7823343848580442	0.1631321370309951	map_ar_2.jpg	93447	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+214150.0	205	300.0	943.0	248.0	cell phone	0.4693901600952337	0.3509200747268928	map_ar_2.jpg	94016	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+214390.0	206	140.0	964.0	120.0	cell phone	0.6054054054054054	0.17412140575079876	map_ar_2.jpg	94256	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+214690.0	207	420.0	896.0	112.0	cell phone	0.4694050273830608	0.16458612045268808	map_ar_2.jpg	94556	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+215060.0	208	280.0	839.0	140.0	cell phone	0.4004362743948723	0.17778733277036488	map_ar_2.jpg	94926	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+215790.0	209	1140.0	988.0	133.0	cell phone	0.7097017205012934	0.17913792956166882	map_ar_2.jpg	95656	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+216760.0	210	600.0	934.0	388.0	cell phone	0.5714285714285714	0.6422487223168655	map_ar_2.jpg	96626	map_ar	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+217460.0	211	720.0	814.0	91.0	surroundings				0	surroundings	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+218179.0	212	480.0	948.0	319.0	cell phone	0.5940527671050646	0.3628125199896001	info_menzis.jpg	98045	info	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+218569.0	213	220.0	980.0	244.0	cell phone	0.7315290417955879	0.172530027903019	view_note.jpg	98435	view_note	 Okay , so I'm going to stop using the augmented reality because I'm a little confused by it , and I'm gonna try to navigate by the map instead.	218734.0	12010.0
+219199.0	214	960.0	949.0	406.0	cell phone	0.5294521719317561	0.5771938867025679	map_ar_2.jpg	99065	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+219949.0	215	460.0	909.0	229.0	cell phone	0.6402167317596255	0.022539720101889114	map_ar_2.jpg	99815	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+220659.0	216	760.0	1044.0	404.0	others				0	others	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+221539.0	217	320.0	957.0	407.0	cell phone	0.6474166910044955	0.21530960401121949	map_ar_2.jpg	101405	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+221839.0	218	200.0	975.0	353.0	cell phone	0.9682539682539684	0.225621414913958	map_ar_2.jpg	101705	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+222169.0	219	180.0	976.0	487.0	cell phone	0.7639751552795031	0.45825932504440503	map_ar_2.jpg	102035	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+222409.0	220	240.0	938.0	286.0	cell phone	0.6328678645767173	0.1244991973911484	map_ar_2.jpg	102275	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+222679.0	221	240.0	1023.0	233.0	cell phone	0.8567135380369677	0.06924163019981804	map_ar_2.jpg	102545	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+223378.0	222	1040.0	969.0	419.0	cell phone	0.5797936462405523	0.6416281147021861	map_ar_2.jpg	103244	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+224078.0	223	280.0	1027.0	235.0	cell phone	0.6011730205278593	0.11469534050179213	map_ar_2.jpg	103944	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+225188.0	224	1900.0	923.0	212.0	cell phone	0.6089974707500063	0.1459986052542425	map_ar_2.jpg	105054	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+226588.0	225	820.0	1005.0	374.0	cell phone	0.4777448071216617	0.6398601398601399	map_ar_2.jpg	106454	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+227687.0	226	180.0	614.0	105.0	surroundings				0	surroundings	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+228017.0	227	120.0	1204.0	465.0	cell phone	0.9632385284237756	0.14368201047894316	map_ar_2.jpg	107883	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+228267.0	228	340.0	997.0	353.0	cell phone	0.5636459193502659	0.33223413699058874	map_ar_2.jpg	108133	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+228727.0	229	540.0	1000.0	188.0	cell phone	0.489227326247337	0.1187489271409614	map_ar_2.jpg	108593	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+229597.0	230	1160.0	975.0	396.0	cell phone	0.4859397562530191	0.5746716622099389	map_ar_2.jpg	109463	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+230896.0	231	1180.0	961.0	412.0	cell phone	0.5752092705884038	0.6653279720619351	map_ar_2.jpg	110762	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+232196.0	232	80.0	475.0	20.0	surroundings				0	surroundings	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+232586.0	233	260.0	704.0	153.0	surroundings				0	surroundings	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+233196.0	234	200.0	865.0	25.0	surroundings				0	surroundings	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+235066.0	235	3099.0	1005.0	418.0	cell phone	0.4507298403000851	0.40329198714498427	map_ar_2.jpg	114932	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+237325.0	236	1380.0	877.0	447.0	cell phone	0.6954020145839559	0.4425657926632862	map_ar_2.jpg	117191	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+238175.0	237	280.0	879.0	305.0	cell phone	0.8540627357791115	0.19623877210044385	map_ar_2.jpg	118041	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+238955.0	238	1120.0	917.0	219.0	cell phone	0.6055141419284406	0.07439025092525611	map_ar_2.jpg	118821	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+240994.0	239	400.0	1013.0	377.0	cell phone	0.5517241379310345	0.39399999999999996	map_ar_2.jpg	120860	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+241584.0	240	720.0	977.0	371.0	cell phone	0.5365853658536586	0.4728682170542636	map_ar_2.jpg	121450	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+242974.0	241	800.0	981.0	432.0	cell phone	0.4770642201834863	0.5167785234899329	map_ar_2.jpg	122840	map_ar	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+244363.0	242	140.0	1109.0	76.0	building				0	building	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+244613.0	243	160.0	789.0	204.0	surroundings				0	surroundings	 So I know I'm just trying to go to Menzis , and I'm gonna pull up the information I'm in front of it.	244654.0	6510.0
+246393.0	244	320.0	954.0	493.0	cell phone	0.3059210526315789	0.28378378378378377	map_ar_2.jpg	126259	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+247033.0	245	920.0	1010.0	414.0	cell phone	0.5596997064484144	0.5287006911950495	map_ar_2.jpg	126899	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+247663.0	246	140.0	1215.0	454.0	cell phone	0.7428313645331761	0.21936711968124809	map_ar_2.jpg	127529	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+247903.0	247	100.0	1043.0	359.0	others				0	others	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+249642.0	248	220.0	812.0	676.0	cell phone	0.14266090116332822	0.3617457144342522	map_ar_2.jpg	129508	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+250762.0	249	260.0	886.0	84.0	surroundings				0	surroundings	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+251042.0	250	260.0	758.0	100.0	building				0	building	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+252521.0	251	240.0	1053.0	455.0	cell phone	0.8373426169216509	0.31432286786659225	map_ar_2.jpg	132387	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+252811.0	252	240.0	853.0	329.0	cell phone	0.36112007819159375	0.10796138419811847	map_ar_2.jpg	132677	map_ar	 This was a place where I knew where it was already , but I don't know what it is.	253124.0	3320.0
+253131.0	253	160.0	910.0	554.0	cell phone	0.6501626512103265	0.4653527936000182	map_ar_2.jpg	132997	map_ar	 so I'll be interested to find out what this What?	257224.0	3280.0
+253421.0	254	100.0	1870.0	191.0	building				0	building	 so I'll be interested to find out what this What?	257224.0	3280.0
+253591.0	255	120.0	1805.0	116.0	building				0	building	 so I'll be interested to find out what this What?	257224.0	3280.0
+254641.0	256	100.0	987.0	735.0	cell phone	0.25559685917939085	0.4074489853384992	map_ar_2.jpg	134507	map_ar	 so I'll be interested to find out what this What?	257224.0	3280.0
+254911.0	257	400.0	1103.0	632.0	surroundings				0	surroundings	 so I'll be interested to find out what this What?	257224.0	3280.0
+256510.0	258	280.0	1028.0	694.0	cell phone	0.4107062026501676	0.4287483449748836	map_ar_2.jpg	136376	map_ar	 so I'll be interested to find out what this What?	257224.0	3280.0
+256810.0	259	120.0	1061.0	897.0	cell phone	0.5907991093484469	0.6021651376043661	map_ar_2.jpg	136676	map_ar	 so I'll be interested to find out what this What?	257224.0	3280.0
+257020.0	260	180.0	959.0	820.0	cell phone	0.3437794556331324	0.3874300031973917	map_ar_2.jpg	136886	map_ar	 so I'll be interested to find out what this What?	257224.0	3280.0
+257300.0	261	140.0	1033.0	848.0	cell phone	0.22145328719723184	0.310126582278481	map_ar_2.jpg	137166	map_ar	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+258880.0	262	260.0	830.0	116.0	surroundings				0	surroundings	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+259350.0	263	280.0	952.0	53.0	building				0	building	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+259580.0	264	140.0	962.0	22.0	building				0	building	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+260010.0	265	160.0	664.0	239.0	building				0	building	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+260210.0	266	200.0	894.0	206.0	surroundings				0	surroundings	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+260499.0	267	100.0	682.0	101.0	building				0	building	 This building actually is okay Right now , I'm just reading this aloud here.	260504.0	14970.0
+260959.0	268	100.0	1208.0	312.0	surroundings				0	surroundings	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+261309.0	269	240.0	1002.0	451.0	cell phone	0.6593924274451898	0.3491996390076112	map_ar_2.jpg	141175	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+261499.0	270	100.0	859.0	281.0	cell phone	0.3199994020240701	0.2667391864797425	map_ar_2.jpg	141365	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+261859.0	271	540.0	906.0	337.0	cell phone	0.5907038944488259	0.5569451927379943	map_ar_2.jpg	141725	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+262579.0	272	840.0	1033.0	142.0	cell phone	0.4438040345821326	0.06386861313868614	map_ar_2.jpg	142445	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+263329.0	273	200.0	920.0	584.0	others				0	others	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+264149.0	274	600.0	1097.0	240.0	cell phone	0.8696583463005896	0.1132944720859963	map_ar_2.jpg	144015	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+264978.0	275	1020.0	1159.0	202.0	cell phone	0.4845302301768428	0.11095870079575684	map_ar_2.jpg	144844	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+265798.0	276	580.0	984.0	198.0	others				0	others	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+266698.0	277	220.0	863.0	94.0	building				0	building	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+266868.0	278	80.0	959.0	23.0	building				0	building	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+268208.0	279	2000.0	956.0	283.0	cell phone	0.7587189594638878	0.1302466433939206	map_ar_2.jpg	148074	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+270527.0	280	2379.0	909.0	253.0	cell phone	0.4405720059391652	0.19391836659449013	map_ar_2.jpg	150393	map_ar	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+272587.0	281	1700.0	882.0	254.0	cell phone	0.4174767929294666	0.06788862159781424	info_menzis.jpg	152453	info	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+273796.0	282	460.0	856.0	312.0	cell phone	0.21082460752014176	0.03086953829714235	info_menzis.jpg	153662	info	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+274486.0	283	680.0	902.0	281.0	cell phone	0.4820340088901353	0.058075571230865076	info_menzis.jpg	154352	info	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+275426.0	284	1160.0	864.0	293.0	cell phone	0.4271309993604707	0.04484375934652743	info_menzis.jpg	155292	info	 Menzis is one of the largest Dutch insurance companies in Netherlands.	276414.0	2680.0
+276756.0	285	1460.0	915.0	313.0	cell phone	0.4657791353606736	0.051909724833265086	info_menzis.jpg	156622	info	 It's located next to see building.	279094.0	1670.0
+278285.0	286	1560.0	936.0	288.0	building				0	building	 It's located next to see building.	279094.0	1670.0
+279735.0	287	1300.0	927.0	276.0	cell phone	0.3272789233351052	0.09074312232845293	info_menzis.jpg	159601	info	 Pressel tried Enschede building.	281234.0	2560.0
+281285.0	288	1740.0	919.0	292.0	cell phone	0.35391155226289994	0.0926963657364797	info_menzis.jpg	161151	info	 It was the former roar a track through Enschede , a North Station villa Enschede , our station and then removed.	283794.0	5380.0
+282784.0	289	1260.0	924.0	315.0	cell phone	0.4468376373624336	0.1250037680862593	info_menzis.jpg	162650	info	 It was the former roar a track through Enschede , a North Station villa Enschede , our station and then removed.	283794.0	5380.0
+284354.0	290	1820.0	937.0	306.0	cell phone	0.4171970475455424	0.12875190443611753	info_menzis.jpg	164220	info	 Menzis was built.	289174.0	880.0
+285524.0	291	480.0	848.0	305.0	cell phone	0.2525630704566951	0.16834115035689365	info_menzis.jpg	165390	info	 Menzis was built.	289174.0	880.0
+287283.0	292	2999.0	933.0	298.0	cell phone	0.4996174644334199	0.1475888598227274	info_menzis.jpg	167149	info	 Menzis was built.	289174.0	880.0
+289003.0	293	400.0	885.0	298.0	cell phone	0.2573906810604515	0.18514929415868767	info_menzis.jpg	168869	info	 Menzis was built.	289174.0	880.0
+289753.0	294	1060.0	936.0	352.0	cell phone	0.4713216957605985	0.4267241379310345	info_menzis.jpg	169619	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+290613.0	295	580.0	893.0	383.0	cell phone	0.3806117993867636	0.6155776503865247	info_menzis.jpg	170479	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+291382.0	296	900.0	889.0	271.0	cell phone	0.2844788543544093	0.4007549636636568	info_menzis.jpg	171248	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+292082.0	297	480.0	896.0	247.0	cell phone	0.4827931951376921	0.3438132755329077	info_menzis.jpg	171948	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+292632.0	298	440.0	889.0	272.0	cell phone	0.5223606090086618	0.3710262282613879	info_menzis.jpg	172498	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+293992.0	299	2019.0	938.0	305.0	cell phone	0.6335635264575715	0.3673866957426469	info_menzis.jpg	173858	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+296781.0	300	3319.0	922.0	297.0	cell phone	0.7612558864704417	0.4522261919186413	sat_image.jpg	176647	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+298571.0	301	220.0	819.0	344.0	cell phone	0.4350261050683981	0.3238013522039064	sat_image_2.jpg	178437	info	 Okay , so this used to be the location of a train station , which I do not know.	298834.0	6210.0
+299280.0	302	1000.0	890.0	364.0	cell phone	0.6044699150687677	0.32492577798595146	sat_image_2.jpg	179146	info	 We're gonna take a note of that.	308434.0	1250.0
+300360.0	303	1120.0	880.0	389.0	cell phone	-1.0	-1.0	sat_image_2.jpg	180226	info	 We're gonna take a note of that.	308434.0	1250.0
+301200.0	304	320.0	1012.0	385.0	cell phone	0.7846659526798986	0.5165195268500586	sat_image_2.jpg	181066	info	 We're gonna take a note of that.	308434.0	1250.0
+301550.0	305	320.0	852.0	393.0	surroundings				0	surroundings	 We're gonna take a note of that.	308434.0	1250.0
+301920.0	306	80.0	884.0	383.0	building				0	building	 We're gonna take a note of that.	308434.0	1250.0
+302130.0	307	300.0	955.0	383.0	cell phone	0.6738647451039727	0.2638222769848482	sat_image_2.jpg	181996	info	 We're gonna take a note of that.	308434.0	1250.0
+302569.0	308	520.0	901.0	462.0	cell phone	0.5578314932443134	0.4166128412367047	sat_image_2.jpg	182435	info	 We're gonna take a note of that.	308434.0	1250.0
+303160.0	309	480.0	913.0	410.0	cell phone	0.5944079289593965	0.4256208879220072	sat_image_2.jpg	183026	info	 We're gonna take a note of that.	308434.0	1250.0
+303660.0	310	480.0	959.0	368.0	cell phone	0.7435833182983721	0.3944308777297454	sat_image_2.jpg	183526	info	 We're gonna take a note of that.	308434.0	1250.0
+304059.0	311	280.0	894.0	225.0	cell phone	0.5212424187486742	0.15899724834195508	sat_image_2.jpg	183925	info	 We're gonna take a note of that.	308434.0	1250.0
+304709.0	312	860.0	878.0	250.0	others				0	others	 We're gonna take a note of that.	308434.0	1250.0
+305479.0	313	640.0	986.0	355.0	cell phone	0.6908847986318827	0.3219741351367631	sat_image.jpg	185345	info	 We're gonna take a note of that.	308434.0	1250.0
+306119.0	314	560.0	753.0	135.0	surroundings				0	surroundings	 We're gonna take a note of that.	308434.0	1250.0
+306519.0	315	200.0	914.0	254.0	cell phone	0.4622634680682097	0.20241303620769133	sat_image.jpg	186385	info	 We're gonna take a note of that.	308434.0	1250.0
+306729.0	316	180.0	1006.0	363.0	cell phone	0.8356314865020348	0.412768621690991	sat_image.jpg	186595	info	 We're gonna take a note of that.	308434.0	1250.0
+307059.0	317	240.0	956.0	459.0	cell phone	0.8129896118635617	0.5782369585766379	sat_image.jpg	186925	info	 We're gonna take a note of that.	308434.0	1250.0
+307309.0	318	220.0	840.0	474.0	cell phone	0.4475156686921906	0.5905999115780222	sat_image.jpg	187175	info	 We're gonna take a note of that.	308434.0	1250.0
+308018.0	319	1160.0	927.0	397.0	cell phone	0.8955772537144203	0.516155575449198	sat_image_2.jpg	187884	info	 We're gonna take a note of that.	308434.0	1250.0
+308798.0	320	200.0	918.0	399.0	cell phone	0.7498913190222466	0.4517115199321912	info_menzis.jpg	188664	info	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+309288.0	321	580.0	984.0	373.0	cell phone	0.8319194685187858	0.4720095512716837	take_note.jpg	189154	take_note	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+310818.0	322	2419.0	900.0	369.0	cell phone	0.7261754260940099	0.5280501838442898	map_ar_2.jpg	190684	map_ar	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+312167.0	323	220.0	777.0	170.0	cell phone	0.20608345767621786	0.11183359834104313	map_ar_2.jpg	192033	map_ar	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+313877.0	324	2979.0	845.0	224.0	cell phone	0.11791913070563215	0.08461464491920494	view_note.jpg	193743	view_note	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+315937.0	325	920.0	862.0	249.0	cell phone	0.2257142854707051	0.02857142854059558	take_note.jpg	195803	take_note	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+316606.0	326	340.0	967.0	370.0	cell phone	0.816241265141193	0.3842905080072335	take_note.jpg	196472	take_note	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+316876.0	327	160.0	829.0	326.0	cell phone	0.4167616577411095	0.3537394599083015	take_note.jpg	196742	take_note	 Hey , I'm gonna call it Menzis one.	317014.0	11180.0
+317196.0	328	240.0	775.0	163.0	others				0	others	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+317446.0	329	180.0	935.0	229.0	cell phone	0.5336150343617326	0.12398458567342338	take_note.jpg	197312	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+317596.0	330	80.0	1022.0	214.0	cell phone	0.9152817393816272	0.12835089153892912	take_note.jpg	197462	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+318516.0	331	1680.0	888.0	375.0	cell phone	0.7052412281268626	0.512939508349636	take_note.jpg	198382	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+319666.0	332	420.0	848.0	245.0	cell phone	0.5467066029786021	0.17113415957064146	take_note.jpg	199532	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+320246.0	333	660.0	831.0	320.0	cell phone	0.2817796363103812	0.32224212029141525	view_note.jpg	200112	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+320745.0	334	260.0	1001.0	487.0	cell phone	0.8224974403320596	0.6129775720631735	view_note.jpg	200611	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+321415.0	335	980.0	855.0	276.0	cell phone	0.14662371309646355	0.2122196440427601	view_note.jpg	201281	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+322105.0	336	340.0	908.0	523.0	cell phone	0.3198957934417441	0.6736724954630304	view_note.jpg	201971	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+322485.0	337	360.0	992.0	462.0	cell phone	0.8049940323400799	0.6785877211766341	view_note.jpg	202351	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+322785.0	338	220.0	841.0	388.0	cell phone	0.42878888212396665	0.5527880513199696	view_note.jpg	202651	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+323095.0	339	360.0	933.0	391.0	cell phone	0.6640357844705241	0.5780290772747011	view_note.jpg	202961	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+323465.0	340	300.0	773.0	217.0	cell phone	0.28336396171978656	0.19675950765715336	view_note.jpg	203331	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+323865.0	341	380.0	837.0	477.0	cell phone	0.31036286696020104	0.6190295593288423	view_note.jpg	203731	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+324354.0	342	560.0	829.0	259.0	cell phone	0.3034960500095552	0.2368753311293151	view_note.jpg	204220	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+324804.0	343	220.0	897.0	543.0	cell phone	0.40924895951824986	0.674228302283594	view_note.jpg	204670	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+325114.0	344	320.0	991.0	462.0	cell phone	0.783134372699236	0.542815824790338	view_note.jpg	204980	view_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+325624.0	345	660.0	832.0	508.0	cell phone	0.3165393858506241	0.5709664885056783	take_note.jpg	205490	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+326174.0	346	400.0	869.0	502.0	cell phone	0.3260990348080226	0.7494208521866469	take_note.jpg	206040	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+326664.0	347	540.0	864.0	346.0	cell phone	0.24556823146473666	0.5236108130700983	take_note.jpg	206530	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+327204.0	348	500.0	868.0	222.0	cell phone	0.3383972346440338	0.2103888425223916	take_note.jpg	207070	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+327684.0	349	420.0	998.0	326.0	cell phone	0.802647901561126	0.284961551210522	take_note.jpg	207550	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+328204.0	350	580.0	827.0	295.0	cell phone	0.26892376371299176	0.1949021437345474	take_note.jpg	208070	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+328734.0	351	280.0	902.0	335.0	cell phone	0.4728033785739033	0.2826850743453414	take_note.jpg	208600	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+329364.0	352	940.0	834.0	246.0	cell phone	0.17038833678852314	0.11401505208354402	take_note.jpg	209230	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+330573.0	353	1360.0	970.0	437.0	cell phone	0.6416382252559727	0.5831842576028623	take_note.jpg	210439	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+331523.0	354	480.0	912.0	415.0	cell phone	0.5751033369313394	0.5365019517009799	take_note.jpg	211389	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+331873.0	355	200.0	842.0	498.0	cell phone	0.32363134603377564	0.6629598356386109	take_note.jpg	211739	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+332423.0	356	800.0	813.0	239.0	cell phone	0.11592905711708	0.11574168620971	take_note.jpg	212289	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+333123.0	357	500.0	969.0	479.0	cell phone	0.7817444885190356	0.5954674190762689	take_note.jpg	212989	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+333562.0	358	300.0	842.0	507.0	cell phone	0.3757407795869154	0.6224162804656739	take_note.jpg	213428	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+333962.0	359	460.0	896.0	517.0	cell phone	0.5423928879652997	0.6485718598471013	take_note.jpg	213828	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+334382.0	360	300.0	775.0	227.0	cell phone	0.13645139966496506	0.10025169492708297	take_note.jpg	214248	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+334702.0	361	220.0	963.0	452.0	cell phone	0.7329321540080468	0.5348430161606716	take_note.jpg	214568	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+334942.0	362	220.0	867.0	482.0	cell phone	0.4468903092954945	0.6297475295837993	take_note.jpg	214808	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+335312.0	363	440.0	867.0	537.0	cell phone	0.4674074660163266	0.6724226844216582	take_note.jpg	215178	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+335732.0	364	320.0	789.0	229.0	cell phone	0.24165249556972554	0.15282461373189765	take_note.jpg	215598	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+336322.0	365	740.0	888.0	491.0	cell phone	0.4765779498704604	0.5952453844295448	take_note.jpg	216188	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+336952.0	366	480.0	971.0	510.0	cell phone	0.7826193525186574	0.6493500581358409	take_note.jpg	216818	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+337252.0	367	80.0	884.0	489.0	cell phone	0.5586720285163149	0.6515458800380303	take_note.jpg	217118	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+337771.0	368	880.0	854.0	498.0	cell phone	0.5160367410772764	0.6596173989567905	take_note.jpg	217637	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+338521.0	369	540.0	819.0	247.0	cell phone	0.5000558582365547	0.1544295408193986	take_note.jpg	218387	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+339131.0	370	600.0	844.0	265.0	cell phone	0.5577946170249377	0.12230399373803567	take_note.jpg	218997	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+339611.0	371	200.0	869.0	571.0	cell phone	0.5084987017288843	0.6742440160616469	take_note.jpg	219477	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+340031.0	372	520.0	873.0	254.0	cell phone	0.5855103666144179	0.15403415524573227	take_note.jpg	219897	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+340441.0	373	220.0	878.0	238.0	cell phone	0.5874300041271752	0.1353863827403372	take_note.jpg	220307	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+340721.0	374	220.0	856.0	559.0	cell phone	0.40823620644502295	0.6997301567825673	take_note.jpg	220587	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+340951.0	375	200.0	870.0	476.0	cell phone	0.4433212476298699	0.6003805276731821	take_note.jpg	220817	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+341191.0	376	200.0	867.0	467.0	cell phone	0.4848285954446793	0.6472089221511006	take_note.jpg	221057	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+341481.0	377	340.0	967.0	435.0	cell phone	0.7262578510728668	0.5980360275252434	take_note.jpg	221347	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+341901.0	378	440.0	882.0	209.0	cell phone	0.6572053476689138	0.12751997784601252	take_note.jpg	221767	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+342371.0	379	360.0	849.0	529.0	cell phone	0.4565907719388619	0.6494628217302351	take_note.jpg	222237	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+342640.0	380	100.0	873.0	518.0	cell phone	0.4993296799596817	0.574467814873445	take_note.jpg	222506	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+342850.0	381	280.0	960.0	505.0	cell phone	0.7477442836869118	0.5652119277080877	take_note.jpg	222716	take_note	 I'm just saying that he's around the sites of a former train station.	342914.0	3650.0
+343270.0	382	480.0	915.0	318.0	cell phone	0.7727297898123278	0.10731986805985701	take_note.jpg	223136	take_note	 I am not spelling this.	351144.0	1810.0
+343830.0	383	520.0	874.0	353.0	cell phone	0.01313108359519681	0.1301145993523741	take_note.jpg	223696	take_note	 I am not spelling this.	351144.0	1810.0
+344380.0	384	300.0	925.0	379.0	cell phone	0.15775318961534274	0.1265192810401335	take_note.jpg	224246	take_note	 I am not spelling this.	351144.0	1810.0
+344820.0	385	380.0	1009.0	499.0	cell phone	0.8611457895371284	0.7408386331462404	take_note.jpg	224686	take_note	 I am not spelling this.	351144.0	1810.0
+346260.0	386	2379.0	908.0	323.0	cell phone	0.3071349784901977	0.03485054919568772	take_note.jpg	226126	take_note	 I am not spelling this.	351144.0	1810.0
+347649.0	387	280.0	1004.0	494.0	cell phone	0.8430682881197381	0.6466687454526557	take_note.jpg	227515	take_note	 I am not spelling this.	351144.0	1810.0
+348929.0	388	2159.0	872.0	293.0	cell phone	0.39677594077428346	0.13350405328174494	take_note.jpg	228795	take_note	 I am not spelling this.	351144.0	1810.0
+350209.0	389	280.0	999.0	532.0	cell phone	0.7719563190604352	0.6977481307995209	take_note.jpg	230075	take_note	 I am not spelling this.	351144.0	1810.0
+350658.0	390	500.0	845.0	179.0	cell phone	0.3840861523297014	0.0948665075521636	take_note.jpg	230524	take_note	 I am not spelling this.	351144.0	1810.0
+351108.0	391	320.0	949.0	455.0	cell phone	0.7690095823518615	0.5983803140446673	take_note.jpg	230974	take_note	 I am not spelling this.	351144.0	1810.0
+351498.0	392	380.0	836.0	212.0	cell phone	0.36090096853534176	0.10480779099052286	take_note.jpg	231364	take_note	 Well , I'm used to a Google android keypad.	352954.0	5700.0
+351948.0	393	400.0	948.0	516.0	cell phone	0.7022053867613604	0.7228053585225148	take_note.jpg	231814	take_note	 Well , I'm used to a Google android keypad.	352954.0	5700.0
+352458.0	394	420.0	895.0	183.0	cell phone	0.569394445742286	0.09324707878974953	take_note.jpg	232324	take_note	 Well , I'm used to a Google android keypad.	352954.0	5700.0
+352798.0	395	200.0	975.0	381.0	cell phone	0.8375621308223284	0.4376417721514142	take_note.jpg	232664	take_note	 Well , I'm used to a Google android keypad.	352954.0	5700.0
+353118.0	396	340.0	961.0	530.0	cell phone	0.8950231660428266	0.7339484133137418	take_note.jpg	232984	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+353728.0	397	760.0	824.0	168.0	surroundings				0	surroundings	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+354298.0	398	140.0	975.0	590.0	building				0	building	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+355307.0	399	160.0	886.0	461.0	cell phone	0.6958557147018559	0.56980658692125	take_note.jpg	235173	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+355537.0	400	260.0	1001.0	494.0	cell phone	0.7931800847068089	0.7218042781286758	take_note.jpg	235403	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+356227.0	401	1000.0	892.0	228.0	cell phone	0.3599510537297895	0.11606903390141045	take_note.jpg	236093	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+356947.0	402	280.0	1002.0	465.0	cell phone	0.8936604719955327	0.7207623519114477	take_note.jpg	236813	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+357297.0	403	300.0	847.0	141.0	cell phone	0.2884818658443015	0.08595911783703124	take_note.jpg	237163	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+357567.0	404	200.0	940.0	156.0	cell phone	0.514267432277999	0.1205791716626292	take_note.jpg	237433	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+358037.0	405	660.0	885.0	387.0	cell phone	0.4590406902783632	0.5624483412533171	take_note.jpg	237903	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+358477.0	406	140.0	912.0	498.0	cell phone	0.28994082840236685	0.7879746835443038	take_note.jpg	238343	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+358707.0	407	240.0	1027.0	420.0	cell phone	0.8864517889984251	0.7066199084461503	take_note.jpg	238573	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+359026.0	408	360.0	885.0	405.0	cell phone	0.4919961483323536	0.7050346070844621	take_note.jpg	238892	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+359316.0	409	180.0	928.0	306.0	cell phone	0.559845421177705	0.5120193679238301	take_note.jpg	239182	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+359576.0	410	300.0	1038.0	402.0	cell phone	0.8821103422781341	0.6780818648856971	take_note.jpg	239442	take_note	 Okay , How do I I'm not sure how to submit Note.	359634.0	9610.0
+359866.0	411	160.0	928.0	174.0	cell phone	0.6565792715743517	0.27543799073580416	take_note.jpg	239732	take_note	 I just hit back.	376784.0	1160.0
+360136.0	412	340.0	935.0	74.0	cell phone	0.6082479661768629	0.08401032975219645	take_note.jpg	240002	take_note	 I just hit back.	376784.0	1160.0
+360426.0	413	160.0	982.0	283.0	cell phone	0.7622750496189272	0.4044755688723865	take_note.jpg	240292	take_note	 I just hit back.	376784.0	1160.0
+360636.0	414	180.0	821.0	309.0	cell phone	0.2433673176152367	0.4309254625255734	take_note.jpg	240502	take_note	 I just hit back.	376784.0	1160.0
+360956.0	415	380.0	1010.0	477.0	cell phone	0.8408959424613038	0.7187712138401859	take_note.jpg	240822	take_note	 I just hit back.	376784.0	1160.0
+361436.0	416	460.0	867.0	106.0	cell phone	0.397978687425094	0.10933878047399227	take_note.jpg	241302	take_note	 I just hit back.	376784.0	1160.0
+361736.0	417	80.0	783.0	109.0	cell phone	0.10208477321301784	0.1078873956430848	take_note.jpg	241602	take_note	 I just hit back.	376784.0	1160.0
+362016.0	418	340.0	1025.0	458.0	cell phone	0.8830835005364184	0.6933952764978567	take_note.jpg	241882	take_note	 I just hit back.	376784.0	1160.0
+362426.0	419	360.0	822.0	114.0	cell phone	0.22618078556721705	0.1285967258070656	take_note.jpg	242292	take_note	 I just hit back.	376784.0	1160.0
+362726.0	420	180.0	956.0	83.0	cell phone	0.5749361980711815	0.07057215161952067	take_note.jpg	242592	take_note	 I just hit back.	376784.0	1160.0
+363005.0	421	240.0	1038.0	474.0	cell phone	0.88852676551285	0.7216556554114177	take_note.jpg	242871	take_note	 I just hit back.	376784.0	1160.0
+363415.0	422	460.0	830.0	91.0	cell phone	0.23673143015921824	0.061955340927803526	take_note.jpg	243281	take_note	 I just hit back.	376784.0	1160.0
+363835.0	423	260.0	1026.0	498.0	cell phone	0.8954978760398724	0.7193111934251736	take_note.jpg	243701	take_note	 I just hit back.	376784.0	1160.0
+364305.0	424	520.0	886.0	167.0	cell phone	0.4134508596768019	0.11440567329861047	take_note.jpg	244171	take_note	 I just hit back.	376784.0	1160.0
+364805.0	425	280.0	891.0	187.0	cell phone	0.4616608406912524	0.12164328958716987	take_note.jpg	244671	take_note	 I just hit back.	376784.0	1160.0
+365205.0	426	240.0	1025.0	555.0	cell phone	0.8903844548524799	0.7919670400915118	take_note.jpg	245071	take_note	 I just hit back.	376784.0	1160.0
+365565.0	427	440.0	920.0	491.0	cell phone	0.4030377922900992	0.7532336586344393	take_note.jpg	245431	take_note	 I just hit back.	376784.0	1160.0
+366015.0	428	420.0	1010.0	340.0	cell phone	0.6498525814927765	0.4677527686452162	take_note.jpg	245881	take_note	 I just hit back.	376784.0	1160.0
+366395.0	429	300.0	877.0	357.0	cell phone	0.33076602141378025	0.48263932190978703	take_note.jpg	246261	take_note	 I just hit back.	376784.0	1160.0
+366635.0	430	140.0	1003.0	339.0	cell phone	0.7107608313402458	0.4193723175979783	take_note.jpg	246501	take_note	 I just hit back.	376784.0	1160.0
+366855.0	431	220.0	917.0	117.0	building				0	building	 I just hit back.	376784.0	1160.0
+367205.0	432	440.0	831.0	188.0	surroundings				0	surroundings	 I just hit back.	376784.0	1160.0
+367764.0	433	560.0	893.0	294.0	cell phone	0.37886795255523614	0.012225158812972555	take_note.jpg	247630	take_note	 I just hit back.	376784.0	1160.0
+368164.0	434	120.0	947.0	549.0	cell phone	0.4252887043400251	0.6164684261613096	take_note.jpg	248030	take_note	 I just hit back.	376784.0	1160.0
+368364.0	435	80.0	982.0	497.0	cell phone	0.3371276996893917	0.6911724084572202	take_note.jpg	248230	take_note	 I just hit back.	376784.0	1160.0
+368644.0	436	200.0	983.0	368.0	cell phone	0.7209791408862469	0.4918974998722279	take_note.jpg	248510	take_note	 I just hit back.	376784.0	1160.0
+368964.0	437	360.0	912.0	193.0	cell phone	0.534926377982597	0.10194714809628214	take_note.jpg	248830	take_note	 I just hit back.	376784.0	1160.0
+369304.0	438	240.0	921.0	376.0	cell phone	0.4459901446052785	0.5037766671440849	take_note.jpg	249170	take_note	 I just hit back.	376784.0	1160.0
+369494.0	439	100.0	853.0	362.0	cell phone	0.191543397125372	0.5117174019437241	take_note.jpg	249360	take_note	 I just hit back.	376784.0	1160.0
+369844.0	440	520.0	969.0	451.0	cell phone	0.9574069417913256	0.7418556527481085	take_note.jpg	249710	take_note	 I just hit back.	376784.0	1160.0
+371194.0	441	2119.0	909.0	437.0	cell phone	0.21432985440907765	0.7170047020343099	take_note.jpg	251060	take_note	 I just hit back.	376784.0	1160.0
+372463.0	442	360.0	879.0	115.0	cell phone	0.2595695454904605	0.14158775466849433	take_note.jpg	252329	take_note	 I just hit back.	376784.0	1160.0
+372833.0	443	360.0	932.0	273.0	cell phone	0.4064378939643857	0.40178380631945504	take_note.jpg	252699	take_note	 I just hit back.	376784.0	1160.0
+373913.0	444	1700.0	881.0	199.0	surroundings				0	surroundings	 I just hit back.	376784.0	1160.0
+374973.0	445	300.0	915.0	241.0	cell phone	0.3598544203513929	0.09059478896780217	take_note.jpg	254839	take_note	 I just hit back.	376784.0	1160.0
+375432.0	446	460.0	890.0	216.0	cell phone	0.3143991177883064	0.0545330161122303	take_note.jpg	255298	take_note	 I just hit back.	376784.0	1160.0
+375782.0	447	160.0	1057.0	325.0	cell phone	0.9262498478563004	0.2894575245578861	take_note.jpg	255648	take_note	 I just hit back.	376784.0	1160.0
+376212.0	448	660.0	1000.0	402.0	cell phone	0.9374488834733355	0.488657171535197	take_note.jpg	256078	take_note	 I just hit back.	376784.0	1160.0
+376842.0	449	560.0	919.0	500.0	cell phone	0.8510085532779957	0.6438404042095299	view_note.jpg	256708	view_note	 Okay , So hitting back is how you submit the note.	379504.0	2170.0
+377672.0	450	980.0	913.0	405.0	cell phone	0.5907952065629121	0.4172812426754074	map_ar.jpg	257538	map_ar	 Okay , So hitting back is how you submit the note.	379504.0	2170.0
+379042.0	451	1520.0	870.0	215.0	cell phone	0.29221323122889065	0.1733459920436964	map_ar.jpg	258908	map_ar	 Okay , So hitting back is how you submit the note.	379504.0	2170.0
+381051.0	452	2240.0	879.0	265.0	cell phone	0.1216330349327077	0.08471129119277927	map_ar.jpg	260917	map_ar	 That was not clear to me.	381684.0	2270.0
+382931.0	453	1480.0	867.0	255.0	cell phone	0.2195315238747433	0.03763695715931457	view_note.jpg	262797	view_note	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+384071.0	454	500.0	948.0	290.0	cell phone	0.3452171191982551	0.1327171189715547	view_note.jpg	263937	view_note	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+384571.0	455	460.0	982.0	377.0	cell phone	0.608488498049807	0.3746153780967893	view_note.jpg	264437	view_note	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+385150.0	456	660.0	925.0	214.0	cell phone	0.5918095972236469	0.08098680337771774	view_note.jpg	265016	view_note	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+385590.0	457	180.0	924.0	355.0	cell phone	0.5666940393367512	0.40281221779631776	map_ar.jpg	265456	map_ar	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+385810.0	458	220.0	888.0	417.0	cell phone	0.2924400253948401	0.5534842849571225	map_ar.jpg	265676	map_ar	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+385980.0	459	80.0	987.0	389.0	cell phone	0.5173908819936175	0.5385705308258028	map_ar.jpg	265846	map_ar	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+386140.0	460	160.0	895.0	186.0	cell phone	0.2467185840086428	0.13531128506226406	map_ar.jpg	266006	map_ar	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+386450.0	461	420.0	963.0	203.0	cell phone	0.6636929931785059	0.1105870186162052	map_ar.jpg	266316	map_ar	 Okay , so now I'm back and I want to look at the men Menzis the rest of information , but I can't see.	386594.0	7990.0
+387450.0	462	1540.0	961.0	231.0	cell phone	0.649867374005305	0.2683333333333333	map_ar.jpg	267316	map_ar	 I can't find the p o I.	396434.0	3790.0
+388410.0	463	340.0	898.0	340.0	cell phone	0.3586691335810707	0.4801920309996218	map_ar.jpg	268276	map_ar	 I can't find the p o I.	396434.0	3790.0
+388679.0	464	160.0	976.0	278.0	cell phone	0.5341658354030776	0.3869670066419759	map_ar.jpg	268545	map_ar	 I can't find the p o I.	396434.0	3790.0
+388849.0	465	140.0	1058.0	147.0	cell phone	0.7784195839326941	0.1806555833302632	map_ar.jpg	268715	map_ar	 I can't find the p o I.	396434.0	3790.0
+389129.0	466	340.0	1014.0	353.0	cell phone	0.5852814268439179	0.5528404086569825	map_ar.jpg	268995	map_ar	 I can't find the p o I.	396434.0	3790.0
+389419.0	467	200.0	929.0	311.0	cell phone	0.2081987111060355	0.3923677690321799	map_ar.jpg	269285	map_ar	 I can't find the p o I.	396434.0	3790.0
+389719.0	468	360.0	937.0	256.0	cell phone	0.3903315324880425	0.1606395842468342	map_ar.jpg	269585	map_ar	 I can't find the p o I.	396434.0	3790.0
+390209.0	469	540.0	964.0	407.0	cell phone	0.5685334139973584	0.5261173462633837	map_ar.jpg	270075	map_ar	 I can't find the p o I.	396434.0	3790.0
+390849.0	470	620.0	987.0	201.0	cell phone	0.4904487143236465	0.13326050940629142	map_ar.jpg	270715	map_ar	 I can't find the p o I.	396434.0	3790.0
+391239.0	471	80.0	874.0	227.0	cell phone	0.264553487274663	0.10544533738057134	map_ar.jpg	271105	map_ar	 I can't find the p o I.	396434.0	3790.0
+392459.0	472	2079.0	882.0	242.0	cell phone	0.7384362421943784	0.2513600289706409	map_ar.jpg	272325	map_ar	 I can't find the p o I.	396434.0	3790.0
+393678.0	473	160.0	896.0	251.0	cell phone	0.8223334872656214	0.22110382706466628	map_ar.jpg	273544	map_ar	 I can't find the p o I.	396434.0	3790.0
+394218.0	474	680.0	937.0	257.0	cell phone	0.6989031443560585	0.14251254542628242	map_ar.jpg	274084	map_ar	 I can't find the p o I.	396434.0	3790.0
+394938.0	475	720.0	902.0	219.0	cell phone	0.20658682634730527	0.2508532423208191	map_ar.jpg	274804	map_ar	 I can't find the p o I.	396434.0	3790.0
+395558.0	476	480.0	1049.0	179.0	cell phone	0.6421050099879358	0.19297867716079856	map_ar.jpg	275424	map_ar	 I can't find the p o I.	396434.0	3790.0
+396448.0	477	1100.0	965.0	193.0	cell phone	0.3868194842406877	0.11310592459605028	view_note.jpg	276314	view_note	 Here we go.	401534.0	510.0
+397237.0	478	440.0	1007.0	90.0	cell phone	0.18165857529334808	0.10956802430029372	view_note.jpg	277103	view_note	 Here we go.	401534.0	510.0
+397717.0	479	320.0	968.0	187.0	cell phone	0.6779654846954066	0.12806101540998702	map_ar.jpg	277583	map_ar	 Here we go.	401534.0	510.0
+398087.0	480	380.0	1000.0	203.0	cell phone	0.8670743535890096	0.20048470856851824	map_ar.jpg	277953	map_ar	 Here we go.	401534.0	510.0
+398457.0	481	280.0	829.0	100.0	cell phone	0.35323259583783256	0.12062430606333688	map_ar.jpg	278323	map_ar	 Here we go.	401534.0	510.0
+398727.0	482	140.0	887.0	270.0	cell phone	0.631353074022574	0.33754673171165644	map_ar.jpg	278593	map_ar	 Here we go.	401534.0	510.0
+399077.0	483	360.0	888.0	388.0	cell phone	0.718167041982248	0.4394539437875351	map_ar.jpg	278943	map_ar	 Here we go.	401534.0	510.0
+399367.0	484	180.0	925.0	280.0	cell phone	0.8819815004284242	0.1829636244319748	map_ar.jpg	279233	map_ar	 Here we go.	401534.0	510.0
+399887.0	485	820.0	836.0	282.0	cell phone	0.5472710567844414	0.1656189787651048	map_ar.jpg	279753	map_ar	 Here we go.	401534.0	510.0
+400517.0	486	400.0	941.0	201.0	cell phone	0.779917998664441	0.2833326769837954	map_ar.jpg	280383	map_ar	 Here we go.	401534.0	510.0
+400967.0	487	420.0	767.0	154.0	cell phone	0.2295098808987611	0.1596315248251317	map_ar.jpg	280833	map_ar	 Here we go.	401534.0	510.0
+401866.0	488	1280.0	926.0	242.0	cell phone	0.7907244982744119	0.257316320565065	map_ar.jpg	281732	map_ar	 It's behind me.	402804.0	710.0
+403736.0	489	2339.0	883.0	268.0	cell phone	0.3630513709619239	0.216354876773735	map_ar.jpg	283602	map_ar	 Something very strange is happening.	408594.0	1560.0
+405036.0	490	160.0	999.0	214.0	cell phone	0.746987819681679	0.1982100899404204	map_ar.jpg	284902	map_ar	 Something very strange is happening.	408594.0	1560.0
+405345.0	491	380.0	810.0	197.0	cell phone	0.18352496777651586	0.1403158612223313	map_ar.jpg	285211	map_ar	 Something very strange is happening.	408594.0	1560.0
+405675.0	492	200.0	1010.0	223.0	cell phone	0.7645807623778752	0.2285394122519355	map_ar.jpg	285541	map_ar	 Something very strange is happening.	408594.0	1560.0
+406045.0	493	340.0	830.0	218.0	cell phone	0.19127512577404407	0.22330995860536515	map_ar.jpg	285911	map_ar	 Something very strange is happening.	408594.0	1560.0
+407145.0	494	1820.0	903.0	222.0	cell phone	0.4019213920456533	0.19977778743022231	map_ar.jpg	287011	map_ar	 Something very strange is happening.	408594.0	1560.0
+408925.0	495	1700.0	992.0	247.0	cell phone	0.7345328863102816	0.17407489977290858	map_ar.jpg	288791	map_ar	 Where keeps sliding off screen.	410154.0	2020.0
+410854.0	496	1920.0	867.0	252.0	cell phone	0.3237018159071909	0.1878417929464324	map_ar.jpg	290720	map_ar	 So I'm gonna try to click on the map instead.	413824.0	1950.0
+412054.0	497	460.0	1019.0	215.0	cell phone	0.7660366241970228	0.20026970447997025	map_ar.jpg	291920	map_ar	 So I'm gonna try to click on the map instead.	413824.0	1950.0
+412414.0	498	160.0	957.0	360.0	cell phone	0.5175867903644061	0.4694458516579882	map_ar.jpg	292280	map_ar	 So I'm gonna try to click on the map instead.	413824.0	1950.0
+413304.0	499	1600.0	946.0	394.0	cell phone	0.5148112283373718	0.5783929608719086	map_ar.jpg	293170	map_ar	 So I'm gonna try to click on the map instead.	413824.0	1950.0
+414563.0	500	780.0	911.0	330.0	cell phone	0.460273202118737	0.4755982851558529	map_ar.jpg	294429	map_ar	 Okay?	415784.0	370.0
+415163.0	501	180.0	789.0	62.0	building				0	building	 Okay?	415784.0	370.0
+415443.0	502	140.0	841.0	135.0	cell phone	0.1851573969353726	0.03282312287990211	map_ar.jpg	295309	map_ar	 Okay?	415784.0	370.0
+416323.0	503	660.0	996.0	428.0	cell phone	0.4968403292044603	0.4295438781380029	info_menzis.jpg	296189	info	 So I'm looking at the old railway station.	421694.0	2270.0
+417873.0	504	2359.0	934.0	264.0	cell phone	0.3455960547707818	0.06808979236526122	info_menzis.jpg	297739	info	 So I'm looking at the old railway station.	421694.0	2270.0
+419522.0	505	860.0	960.0	328.0	cell phone	0.4365879369020448	0.5836893931509427	info_menzis.jpg	299388	info	 So I'm looking at the old railway station.	421694.0	2270.0
+420402.0	506	740.0	948.0	306.0	cell phone	0.3787373956897276	0.5305408306981763	info_menzis.jpg	300268	info	 So I'm looking at the old railway station.	421694.0	2270.0
+421272.0	507	960.0	937.0	284.0	cell phone	0.8391854328808278	0.3506975441752268	info_menzis.jpg	301138	info	 So I'm looking at the old railway station.	421694.0	2270.0
+422172.0	508	620.0	955.0	334.0	cell phone	0.6357258621498344	0.3846224139639977	sat_image.jpg	302038	info	 Interesting.	428734.0	710.0
+424101.0	509	3119.0	926.0	303.0	cell phone	0.4517921217243562	0.39352596269971096	old_map.jpg	303967	old_map	 Interesting.	428734.0	710.0
+425791.0	510	200.0	881.0	342.0	cell phone	0.4226262872425224	0.3556612516960856	old_map.jpg	305657	old_map	 Interesting.	428734.0	710.0
+426081.0	511	180.0	904.0	413.0	cell phone	0.461496982630019	0.436908583372267	old_map.jpg	305947	old_map	 Interesting.	428734.0	710.0
+427010.0	512	1640.0	884.0	325.0	cell phone	0.3792423208319941	0.2739676816459167	old_map_2.jpg	306876	old_map	 Interesting.	428734.0	710.0
+427940.0	513	180.0	911.0	423.0	cell phone	0.41369422999804856	0.4333747396566539	old_map_2.jpg	307806	old_map	 Interesting.	428734.0	710.0
+428630.0	514	1160.0	1001.0	414.0	cell phone	0.7040960681559097	0.3614372889588701	old_map_2.jpg	308496	old_map	 Interesting.	428734.0	710.0
+429810.0	515	1160.0	979.0	401.0	cell phone	0.7124265284343073	0.40978995999974	old_map_2.jpg	309676	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+430570.0	516	320.0	844.0	351.0	cell phone	0.3768897324924807	0.2881907682464239	old_map_2.jpg	310436	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+431339.0	517	900.0	960.0	382.0	cell phone	0.6850737174731971	0.3289376446095582	old_map_2.jpg	311205	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+431967.5	518	140.0	903.0	349.0	cell phone	0.4699008494472478	0.2803837729023745	old_map_2.jpg	311833	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+432399.0	519	700.0	928.0	427.0	cell phone	0.5107516732848207	0.4285267042325715	old_map_2.jpg	312265	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+433109.0	520	500.0	911.0	382.0	cell phone	0.4862969326194426	0.3143095673652325	old_map_2.jpg	312975	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+433659.0	521	540.0	863.0	211.0	surroundings				0	surroundings	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+434499.0	522	1060.0	956.0	390.0	cell phone	0.5473505142311115	0.4179731576918989	old_map.jpg	314365	old_map	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+435599.0	523	1100.0	891.0	344.0	cell phone	0.5040849070951877	0.3366869729065791	info_menzis.jpg	315465	info	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+436378.0	524	420.0	916.0	463.0	cell phone	0.4095753321076857	0.5994104440253729	info_menzis.jpg	316244	info	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+436708.0	525	120.0	898.0	186.0	cell phone	0.3727797204701565	0.13893376124681542	info_menzis.jpg	316574	info	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+436858.0	526	140.0	838.0	147.0	surroundings				0	surroundings	 Okay , I'm gonna proceed to one more location.	437134.0	3680.0
+437208.0	527	480.0	1020.0	401.0	cell phone	0.8721715738457657	0.39537818861559215	info_menzis.jpg	317074	info	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+437508.0	528	80.0	919.0	420.0	cell phone	0.5803894511710015	0.3790659641121962	info_menzis.jpg	317374	info	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+437668.0	529	160.0	959.0	334.0	cell phone	0.7385546444475569	0.2792689326206653	info_menzis.jpg	317534	info	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+438518.0	530	1460.0	955.0	467.0	cell phone	0.5395232469889966	0.4839018526015949	map_ar.jpg	318384	map_ar	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+439348.0	531	160.0	939.0	291.0	cell phone	0.4677898615046445	0.24060227657978586	map_ar.jpg	319214	map_ar	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+439748.0	532	600.0	898.0	244.0	others				0	others	 The Beatrix Bridge tunnel , I should say and looks as though the position of the immersive is not in the right location.	440814.0	17200.0
+440967.0	533	80.0	872.0	123.0	others				0	others	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+441267.0	534	160.0	1132.0	447.0	cell phone	0.7654723127035831	0.31703204047217537	info_tunnel.jpg	321133	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+441417.0	535	100.0	1028.0	318.0	cell phone	0.4670509612287341	0.18521387214317592	info_tunnel.jpg	321283	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+442057.0	536	1160.0	966.0	266.0	others				0	others	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+443007.0	537	200.0	1031.0	435.0	cell phone	0.6209066292403097	0.5084896273267379	info_tunnel.jpg	322873	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+443277.0	538	300.0	934.0	358.0	cell phone	0.2392638036809816	0.4425196850393701	info_tunnel.jpg	323143	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+444096.0	539	1300.0	957.0	337.0	cell phone	0.7270457518089127	0.4036846758349529	info_tunnel.jpg	323962	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+444866.0	540	80.0	986.0	194.0	cell phone	0.8537313432835821	0.11937716262975775	photo_itc.jpg	324732	info	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+445036.0	541	220.0	900.0	240.0	cell phone	0.6085929670902517	0.2454415254260065	map_ar.jpg	324902	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+445276.0	542	220.0	984.0	293.0	cell phone	0.9055299539170508	0.325	map_ar.jpg	325142	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+445846.0	543	360.0	861.0	200.0	cell phone	0.3542593918382101	0.13554790778738954	map_ar.jpg	325712	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+446116.0	544	140.0	875.0	280.0	cell phone	0.4214233460892495	0.30092605429720737	map_ar.jpg	325982	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+446296.0	545	180.0	987.0	268.0	cell phone	0.7346971662188521	0.2741198409676737	map_ar.jpg	326162	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+446826.0	546	800.0	875.0	225.0	cell phone	0.4953841471596259	0.1783742510841605	map_ar.jpg	326692	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+447786.0	547	960.0	973.0	190.0	cell phone	0.7720606901446259	0.1414968498834405	map_ar.jpg	327652	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+448885.0	548	1200.0	1020.0	190.0	cell phone	0.9042712451431832	0.12296866562378185	map_ar.jpg	328751	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+449815.0	549	620.0	949.0	233.0	cell phone	0.6259288601794217	0.13309362222769672	map_ar.jpg	329681	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+450385.0	550	440.0	965.0	385.0	cell phone	0.5176166763713834	0.5363135881756433	map_ar.jpg	330251	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+450795.0	551	300.0	940.0	344.0	cell phone	0.5031316400956761	0.5018624861732596	map_ar.jpg	330661	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+451405.0	552	840.0	952.0	199.0	cell phone	0.700738357749214	0.16327283734986364	map_ar.jpg	331271	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+452075.0	553	320.0	926.0	270.0	cell phone	0.5523653379602436	0.09936776211353812	map_ar.jpg	331941	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+452614.0	554	460.0	951.0	244.0	cell phone	0.6051133081081798	0.09210369888568654	map_ar.jpg	332480	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+453224.0	555	620.0	970.0	284.0	cell phone	0.7101093166248317	0.08049134348087196	map_ar.jpg	333090	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+454234.0	556	1140.0	980.0	253.0	cell phone	0.7597881889924784	0.1046298129771068	map_ar.jpg	334100	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+455084.0	557	520.0	969.0	379.0	cell phone	0.5261392168552188	0.4550434334343687	map_ar.jpg	334950	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+455404.0	558	80.0	1048.0	250.0	cell phone	0.8117143588369585	0.22009690277696686	map_ar.jpg	335270	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+455834.0	559	660.0	1037.0	219.0	cell phone	0.8655472788326736	0.14270562720726665	map_ar.jpg	335700	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+457023.0	560	1680.0	959.0	374.0	cell phone	0.5371822238768431	0.48497227573262	map_ar.jpg	336889	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+458153.0	561	540.0	1042.0	210.0	cell phone	0.9037490807921648	0.2184687191658849	map_ar.jpg	338019	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+458763.0	562	600.0	1022.0	238.0	cell phone	0.739999054911482	0.2745466845902862	map_ar.jpg	338629	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+459273.0	563	380.0	902.0	229.0	cell phone	0.3577261641761479	0.10906596712308272	map_ar.jpg	339139	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+460143.0	564	1240.0	871.0	293.0	cell phone	0.09201236021411176	0.04573058862839514	map_ar.jpg	340009	map_ar	 And I wonder if the wind is having an impact here because it's falling.	460394.0	5010.0
+461113.0	565	660.0	1030.0	326.0	cell phone	0.928425974929892	0.05803187566548248	map_ar.jpg	340979	map_ar	 Okay , so there's Menzis.	465414.0	1230.0
+462072.0	566	1200.0	897.0	323.0	surroundings				0	surroundings	 Okay , so there's Menzis.	465414.0	1230.0
+463202.0	567	980.0	938.0	308.0	cell phone	0.6249443634103345	0.06486928759247894	map_ar.jpg	343068	map_ar	 Okay , so there's Menzis.	465414.0	1230.0
+464632.0	568	1820.0	1008.0	130.0	cell phone	0.7892545009551191	0.14476081941418434	map_ar_2.jpg	344498	map_ar	 Okay , so there's Menzis.	465414.0	1230.0
+465701.0	569	280.0	985.0	122.0	cell phone	0.5326832575357953	0.1599488125451813	map_ar_2.jpg	345567	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+466001.0	570	160.0	1010.0	130.0	cell phone	0.6842259024663202	0.17224891414261145	map_ar_2.jpg	345867	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+466301.0	571	400.0	893.0	123.0	cell phone	0.2741351480384893	0.15334389575297785	map_ar_2.jpg	346167	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+466911.0	572	660.0	964.0	124.0	cell phone	0.4387949625091205	0.15476509076636147	map_ar_2.jpg	346777	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+468761.0	573	2919.0	952.0	215.0	cell phone	0.7694208360743954	0.18571612247942199	map_ar_2.jpg	348627	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+470650.0	574	780.0	762.0	149.0	cell phone	0.125229057995632	0.1003227971458066	map_ar_2.jpg	350516	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+471690.0	575	1200.0	950.0	188.0	cell phone	0.8457108478291173	0.19018159669199533	map_ar_2.jpg	351556	map_ar	 It's being chased off the screen as I turned , and so it should be in front of me.	472134.0	6240.0
+472930.0	576	1080.0	925.0	223.0	cell phone	0.9112695765370132	0.15492235979035598	map_ar_2.jpg	352796	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+474359.0	577	1560.0	932.0	254.0	cell phone	0.8964826421931895	0.1358040166623063	map_ar_2.jpg	354225	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+475429.0	578	500.0	880.0	426.0	cell phone	0.4084316536346016	0.5597420426307425	map_ar_2.jpg	355295	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+475949.0	579	460.0	1015.0	259.0	cell phone	0.2839920223704065	0.0803403590195512	map_ar_2.jpg	355815	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+476519.0	580	640.0	912.0	285.0	cell phone	0.16005894302470644	0.29559181653992656	map_ar_2.jpg	356385	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+477039.0	581	80.0	526.0	135.0	building				0	building	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+477139.0	582	80.0	693.0	103.0	surroundings				0	surroundings	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+477279.0	583	160.0	698.0	144.0	building				0	building	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+477529.0	584	180.0	1067.0	333.0	cell phone	0.4807314386164036	0.12005487739312384	map_ar_2.jpg	357395	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+477848.0	585	420.0	1071.0	257.0	cell phone	0.11695906432748535	0.07492354740061162	map_ar_2.jpg	357714	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+478188.0	586	220.0	920.0	250.0	cell phone	0.1202441427138135	0.1889185443166031	map_ar_2.jpg	358054	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+478578.0	587	520.0	1000.0	240.0	cell phone	0.9283228061183484	0.20231678582423465	map_ar_2.jpg	358444	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+479028.0	588	340.0	993.0	163.0	cell phone	0.8707065079000277	0.009712886589395795	map_ar_2.jpg	358894	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+479398.0	589	360.0	877.0	220.0	cell phone	0.3946323160405793	0.08688488269791399	map_ar_2.jpg	359264	map_ar	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+479678.0	590	160.0	1044.0	219.0	building				0	building	 But the actual icon is being pushed off , making me think I should go this way when I know I should be going this way.	479724.0	7220.0
+479898.0	591	200.0	824.0	246.0	cell phone	0.2797784539459444	0.07522353604303905	map_ar_2.jpg	359764	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+480268.0	592	460.0	977.0	239.0	cell phone	0.8935988449080517	0.09705101918078574	map_ar_2.jpg	360134	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+481927.0	593	2619.0	923.0	252.0	cell phone	0.9073221014026941	0.14675575699445811	map_ar_2.jpg	361793	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+484377.0	594	1000.0	907.0	304.0	cell phone	0.10959033327492858	0.2711669313797492	map_ar_2.jpg	364243	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+485317.0	595	120.0	703.0	73.0	others				0	others	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+485647.0	596	500.0	886.0	179.0	surroundings				0	surroundings	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+486146.0	597	100.0	1087.0	596.0	others				0	others	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+486346.0	598	60.0	759.0	539.0	cell phone	0.3764282943897209	0.2460105349746945	map_ar_2.jpg	366212	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+486606.0	599	300.0	1053.0	414.0	cell phone	0.5038068977969439	0.007105403732462851	map_ar_2.jpg	366472	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+486976.0	600	200.0	995.0	282.0	cell phone	0.1769247989560474	0.539784967447838	map_ar_2.jpg	366842	map_ar	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+487356.0	601	280.0	1152.0	388.0	surroundings				0	surroundings	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+487626.0	602	220.0	1066.0	386.0	surroundings				0	surroundings	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+487856.0	603	200.0	1006.0	402.0	surroundings				0	surroundings	 We're gonna go back to the map now and there stairs here so I don't wanna fall.	488224.0	5120.0
+488296.0	604	160.0	317.0	239.0	surroundings				0	surroundings	 You're recording my verbalization Sze , right?	495334.0	1970.0
+488706.0	605	100.0	1061.0	533.0	cell phone	0.809165152176673	0.4495630621036151	map_ar_2.jpg	368572	map_ar	 You're recording my verbalization Sze , right?	495334.0	1970.0
+488876.0	606	160.0	941.0	344.0	cell phone	0.5596307894718138	0.3636815358008389	map_ar_2.jpg	368742	map_ar	 You're recording my verbalization Sze , right?	495334.0	1970.0
+489156.0	607	120.0	985.0	595.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+489356.0	608	120.0	1100.0	742.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+489646.0	609	100.0	1050.0	708.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+490196.0	610	120.0	1282.0	462.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+490356.0	611	160.0	1334.0	433.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+491435.0	612	280.0	186.0	66.0	surroundings				0	surroundings	 You're recording my verbalization Sze , right?	495334.0	1970.0
+492535.0	613	440.0	1153.0	507.0	others				0	others	 You're recording my verbalization Sze , right?	495334.0	1970.0
+492885.0	614	140.0	970.0	674.0	surroundings				0	surroundings	 You're recording my verbalization Sze , right?	495334.0	1970.0
+495144.0	615	140.0	964.0	518.0	building				0	building	 You're recording my verbalization Sze , right?	495334.0	1970.0
+497764.0	616	140.0	1211.0	577.0	building				0	building	 Okay.	499334.0	410.0
+498024.0	617	180.0	1230.0	723.0	surroundings				0	surroundings	 Okay.	499334.0	410.0
+498434.0	618	200.0	1208.0	542.0	surroundings				0	surroundings	 Okay.	499334.0	410.0
+500833.0	619	200.0	1010.0	423.0	cell phone	0.3279871123351263	0.09362222688031596	map_ar_2.jpg	380699	map_ar	 Okay.	502634.0	340.0
+501283.0	620	660.0	1043.0	417.0	cell phone	0.4641896671222826	0.5051332379731116	map_ar_2.jpg	381149	map_ar	 Okay.	502634.0	340.0
+502198.5	621	100.0	1133.0	3.0	surroundings				0	surroundings	 Okay.	502634.0	340.0
+502583.0	622	380.0	1022.0	401.0	cell phone	0.3818848851726038	0.2851486729738081	map_ar_2.jpg	382449	map_ar	 Okay.	502634.0	340.0
+503063.0	623	480.0	1012.0	373.0	cell phone	0.5826285541192275	0.5628751741536818	map_ar_2.jpg	382929	map_ar	 That one takes forever.	517904.0	940.0
+504692.0	624	1400.0	976.0	387.0	cell phone	0.4348107187444635	0.571753212508312	map_ar_2.jpg	384558	map_ar	 That one takes forever.	517904.0	940.0
+505582.0	625	300.0	973.0	191.0	cell phone	0.532250965310566	0.20233196300989106	map_ar_2.jpg	385448	map_ar	 That one takes forever.	517904.0	940.0
+505852.0	626	200.0	878.0	319.0	cell phone	0.5224274406332454	0.2885572139303483	map_ar_2.jpg	385718	map_ar	 That one takes forever.	517904.0	940.0
+506162.0	627	380.0	892.0	269.0	surroundings				0	surroundings	 That one takes forever.	517904.0	940.0
+506692.0	628	480.0	902.0	388.0	surroundings				0	surroundings	 That one takes forever.	517904.0	940.0
+509601.0	629	1100.0	924.0	397.0	cell phone	0.42542537026378224	0.3143283961537715	info_tunnel.jpg	389467	info	 That one takes forever.	517904.0	940.0
+510351.0	630	360.0	946.0	219.0	cell phone	0.3650241695265758	0.06336001811480654	info_tunnel.jpg	390217	info	 That one takes forever.	517904.0	940.0
+511750.0	631	980.0	982.0	357.0	cell phone	0.3936820955284126	0.5187194612162953	info_tunnel.jpg	391616	info	 That one takes forever.	517904.0	940.0
+512670.0	632	800.0	945.0	161.0	surroundings				0	surroundings	 That one takes forever.	517904.0	940.0
+513223.0	633	260.0	1014.0	290.0	cell phone	0.7222244165480691	0.09284074695696888	info_tunnel.jpg	393089	info	 That one takes forever.	517904.0	940.0
+513780.0	634	580.0	959.0	313.0	cell phone	0.4488448844884488	0.31746031746031744	info_tunnel.jpg	393646	info	 That one takes forever.	517904.0	940.0
+514250.0	635	320.0	1016.0	198.0	cell phone	0.7436763738433598	0.20129883055949305	view_note.jpg	394116	view_note	 That one takes forever.	517904.0	940.0
+514550.0	636	240.0	881.0	212.0	cell phone	0.3222544095274526	0.11532064264556625	map_ar.jpg	394416	map_ar	 That one takes forever.	517904.0	940.0
+516439.0	637	100.0	406.0	88.0	surroundings				0	surroundings	 That one takes forever.	517904.0	940.0
+517319.0	638	180.0	499.0	27.0	surroundings				0	surroundings	 That one takes forever.	517904.0	940.0
+518009.0	639	80.0	1036.0	435.0	cell phone	0.6977682613621936	0.46786496633883795	map_ar.jpg	397875	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+518229.0	640	320.0	946.0	325.0	cell phone	0.7317073170731707	0.24104234527687296	map_ar.jpg	398095	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+518529.0	641	200.0	883.0	471.0	cell phone	0.3824451410658307	0.5161290322580645	map_ar.jpg	398395	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+519029.0	642	720.0	950.0	399.0	cell phone	0.5817660641287661	0.6115810130758752	map_ar.jpg	398895	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+519689.0	643	400.0	1029.0	179.0	cell phone	0.7174359396947554	0.13384594414701595	map_ar.jpg	399555	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+520028.0	644	200.0	903.0	185.0	cell phone	0.33134328358208953	0.10052910052910052	map_ar.jpg	399894	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+520218.0	645	100.0	922.0	223.0	cell phone	0.3	0.11733800350262695	map_ar.jpg	400084	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+520418.0	646	260.0	1047.0	187.0	cell phone	0.7412790697674418	0.1086206896551724	map_ar.jpg	400284	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+520778.0	647	220.0	1070.0	218.0	cell phone	0.7007452728590094	0.23406306844912336	map_ar.jpg	400644	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+521388.0	648	920.0	1013.0	199.0	cell phone	0.8891672383655568	0.10286830093961613	map_ar.jpg	401254	map_ar	 Okay , so it looks like the tunnel is attached over here , so I'm gonna pull this up because I'm not quite certain where it wants me.	521934.0	13870.0
+522148.0	649	500.0	996.0	270.0	cell phone	0.7062314540059347	0.1891891891891892	map_ar.jpg	402014	map_ar	 to go.	535804.0	480.0
+522998.0	650	1120.0	921.0	259.0	cell phone	0.5636077850588296	0.11199334389649822	map_ar.jpg	402864	map_ar	 to go.	535804.0	480.0
+523758.0	651	340.0	939.0	138.0	cell phone	0.6907449209932279	0.1924242424242424	map_ar.jpg	403624	map_ar	 to go.	535804.0	480.0
+524257.0	652	340.0	793.0	153.0	cell phone	0.4206867146261408	0.21703284900752096	map_ar.jpg	404123	map_ar	 to go.	535804.0	480.0
+524577.0	653	220.0	801.0	326.0	cell phone	0.6141796490654183	0.4656866925738567	map_ar.jpg	404443	map_ar	 to go.	535804.0	480.0
+525277.0	654	1140.0	758.0	225.0	cell phone	0.12407124659581592	0.264356581447885	map_ar.jpg	405143	map_ar	 to go.	535804.0	480.0
+526317.0	655	900.0	825.0	248.0	cell phone	0.7201018946590847	0.1772279680426261	map_ar.jpg	406183	map_ar	 to go.	535804.0	480.0
+527657.0	656	620.0	872.0	288.0	cell phone	0.7837596938418798	0.2598032674852647	map_ar.jpg	407523	map_ar	 to go.	535804.0	480.0
+529286.0	657	920.0	933.0	314.0	cell phone	0.5756506026436282	0.2022455913949416	map_ar.jpg	409152	map_ar	 to go.	535804.0	480.0
+529876.0	658	220.0	887.0	347.0	cell phone	0.6315318208079411	0.3302854430267574	map_ar.jpg	409742	map_ar	 to go.	535804.0	480.0
+530096.0	659	140.0	889.0	441.0	cell phone	0.3871525459811219	0.5885957790547381	map_ar.jpg	409962	map_ar	 to go.	535804.0	480.0
+530366.0	660	360.0	979.0	420.0	cell phone	0.545886253978548	0.6048763915691806	map_ar.jpg	410232	map_ar	 to go.	535804.0	480.0
+530746.0	661	320.0	1047.0	96.0	cell phone	0.6237975279381432	0.09065074435935082	map_ar.jpg	410612	map_ar	 to go.	535804.0	480.0
+531726.0	662	80.0	1620.0	127.0	surroundings				0	surroundings	 to go.	535804.0	480.0
+531896.0	663	220.0	1423.0	22.0	building				0	building	 to go.	535804.0	480.0
+532456.0	664	520.0	859.0	311.0	cell phone	0.4931506849315068	0.5081699346405228	map_ar.jpg	412322	map_ar	 to go.	535804.0	480.0
+532876.0	665	220.0	1041.0	47.0	cell phone	0.6314743051867421	0.07425204520759772	map_ar.jpg	412742	map_ar	 to go.	535804.0	480.0
+533065.5	666	120.0	951.0	155.0	cell phone	0.4812680115273775	0.20556414219474486	map_ar.jpg	412931	map_ar	 to go.	535804.0	480.0
+533335.0	667	400.0	1048.0	63.0	cell phone	0.8351351351351352	0.06948640483383686	map_ar.jpg	413201	map_ar	 to go.	535804.0	480.0
+535025.0	668	2799.0	904.0	315.0	cell phone	0.4378760902793214	0.5298822557442625	map_ar.jpg	414891	map_ar	 to go.	535804.0	480.0
+536545.0	669	200.0	919.0	137.0	cell phone	0.4539218104867578	0.21548051441159388	map_ar_2.jpg	416411	map_ar	 I'm reading this aloud.	543204.0	1070.0
+537324.0	670	80.0	987.0	12.0	building				0	building	 I'm reading this aloud.	543204.0	1070.0
+537684.0	671	600.0	931.0	81.0	cell phone	0.5860784794509549	0.13176306504447158	map_ar_2.jpg	417550	map_ar	 I'm reading this aloud.	543204.0	1070.0
+538604.0	672	800.0	924.0	100.0	cell phone	0.4267352185089974	0.1345565749235474	map_ar_2.jpg	418470	map_ar	 I'm reading this aloud.	543204.0	1070.0
+539164.0	673	280.0	941.0	265.0	cell phone	0.4415584415584416	0.4046875	map_ar_2.jpg	419030	map_ar	 I'm reading this aloud.	543204.0	1070.0
+539394.0	674	140.0	919.0	151.0	cell phone	0.3802083333333333	0.231378763866878	map_ar_2.jpg	419260	map_ar	 I'm reading this aloud.	543204.0	1070.0
+539544.0	675	120.0	886.0	319.0	cell phone	0.2597402597402597	0.4992050874403816	map_ar_2.jpg	419410	map_ar	 I'm reading this aloud.	543204.0	1070.0
+539944.0	676	640.0	953.0	341.0	cell phone	0.4341566378483889	0.5250611778777443	map_ar_2.jpg	419810	map_ar	 I'm reading this aloud.	543204.0	1070.0
+540484.0	677	200.0	874.0	173.0	cell phone	0.21553884711779447	0.2492354740061162	map_ar_2.jpg	420350	map_ar	 I'm reading this aloud.	543204.0	1070.0
+540824.0	678	440.0	889.0	98.0	cell phone	0.4480453566333608	0.05468410526825592	map_ar_2.jpg	420690	map_ar	 I'm reading this aloud.	543204.0	1070.0
+541454.0	679	780.0	990.0	122.0	cell phone	0.6751968503937008	0.06276747503566334	info_tunnel.jpg	421320	info	 I'm reading this aloud.	543204.0	1070.0
+542173.0	680	600.0	914.0	174.0	cell phone	0.5228013029315961	0.05612998522895125	info_tunnel.jpg	422039	info	 I'm reading this aloud.	543204.0	1070.0
+542833.0	681	700.0	1045.0	164.0	cell phone	0.8122807017543859	0.07848837209302326	info_tunnel.jpg	422699	info	 I'm reading this aloud.	543204.0	1070.0
+543753.0	682	1000.0	997.0	208.0	cell phone	0.7269989038461692	0.05965188434455008	info_tunnel.jpg	423619	info	 Tunnel name is one of the Dutch princesses.	544284.0	2020.0
+544933.0	683	1300.0	955.0	257.0	cell phone	0.31980577999941423	0.13039369304239082	info_tunnel.jpg	424799	info	 It's a little current station.	547034.0	2210.0
+546482.0	684	1760.0	941.0	250.0	cell phone	0.3969957081545064	0.14040114613180515	info_tunnel.jpg	426348	info	 It's a little current station.	547034.0	2210.0
+547612.0	685	420.0	820.0	236.0	cell phone	0.3097853552842104	0.13457159782095154	info_tunnel.jpg	427478	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+547902.0	686	120.0	938.0	239.0	cell phone	0.5089463220675944	0.14809590973201692	info_tunnel.jpg	427768	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+548142.0	687	80.0	937.0	247.0	cell phone	0.5251509054325956	0.15902578796561606	info_tunnel.jpg	428008	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+548652.0	688	900.0	1000.0	205.0	cell phone	0.6591375770020534	0.15439093484419264	info_tunnel.jpg	428518	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+549741.0	689	1200.0	946.0	203.0	cell phone	0.5087174302671642	0.1524080916286809	info_tunnel.jpg	429607	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+551081.0	690	1400.0	881.0	221.0	cell phone	0.3076923076923077	0.1632088520055325	info_tunnel.jpg	430947	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+552081.0	691	520.0	968.0	344.0	cell phone	0.5452668998385165	0.3911372161184434	info_tunnel.jpg	431947	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+552831.0	692	780.0	944.0	399.0	cell phone	0.5242914979757085	0.4708333333333333	info_tunnel.jpg	432697	info	 So my understanding is that this tunnel pre existed the collapse of the of the textile industry.	553134.0	8120.0
+553471.0	693	400.0	919.0	161.0	cell phone	0.4760869565217392	0.15498652291105122	info_tunnel.jpg	433337	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+553951.0	694	340.0	918.0	164.0	surroundings				0	surroundings	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+554331.0	695	380.0	1036.0	261.0	cell phone	0.3401826484018265	0.17083946980854198	info_tunnel.jpg	434197	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+555710.0	696	860.0	1070.0	322.0	cell phone	0.621380846325167	0.1918429003021148	info_tunnel.jpg	435576	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+556480.0	697	400.0	975.0	301.0	cell phone	0.5425	0.1471927162367223	info_tunnel.jpg	436346	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+557040.0	698	440.0	906.0	302.0	cell phone	0.252054794520548	0.061349693251533735	info_tunnel.jpg	436906	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+557950.0	699	1140.0	991.0	321.0	cell phone	0.6032171581769437	0.12084592145015105	info_tunnel.jpg	437816	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+558669.0	700	140.0	916.0	349.0	cell phone	0.4690959818061641	0.22454563529596666	info_tunnel.jpg	438535	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+558899.0	701	160.0	963.0	354.0	cell phone	0.6168552293275579	0.34166826858922644	info_tunnel.jpg	438765	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+559169.0	702	340.0	978.0	228.0	cell phone	0.6610618919787691	0.2057500663403448	info_tunnel.jpg	439035	info	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+559699.0	703	480.0	973.0	465.0	cell phone	0.5049211615510235	0.4836345101933834	map_ar_2.jpg	439565	map_ar	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+560159.0	704	360.0	948.0	301.0	cell phone	0.5850136324949198	0.14408541988826115	map_ar_2.jpg	440025	map_ar	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+560769.0	705	540.0	906.0	277.0	cell phone	0.5595673676864878	0.1207645868074304	map_ar_2.jpg	440635	map_ar	 So this was here even though the train station was on the other side , which is interesting.	561924.0	5340.0
+562289.0	706	140.0	715.0	23.0	surroundings				0	surroundings	 Okay , we're gonna make a note of that.	568624.0	6930.0
+562978.0	707	400.0	1016.0	446.0	cell phone	0.4391873181340341	0.4292260608397937	map_ar_2.jpg	442844	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+563288.0	708	180.0	1035.0	303.0	cell phone	0.3717948717948718	0.17403708987161198	map_ar_2.jpg	443154	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+563848.0	709	740.0	934.0	348.0	cell phone	0.6079025069194729	0.2153166486626901	map_ar_2.jpg	443714	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+564338.0	710	200.0	906.0	340.0	cell phone	0.6760431309594312	0.2545457083788317	map_ar_2.jpg	444204	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+564678.0	711	320.0	905.0	390.0	cell phone	0.5437017973184299	0.25696090218082124	map_ar_2.jpg	444544	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+565068.0	712	420.0	950.0	419.0	cell phone	0.5264333733658089	0.4239872857347722	map_ar_2.jpg	444934	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+565578.0	713	560.0	969.0	444.0	cell phone	0.5119437980982331	0.5694875144767756	map_ar_2.jpg	445444	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+565988.0	714	220.0	944.0	336.0	cell phone	0.4555918345583724	0.3126154256924245	map_ar_2.jpg	445854	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+566228.0	715	220.0	1018.0	273.0	cell phone	0.7016446735451515	0.1862445668871346	map_ar_2.jpg	446094	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+566487.0	716	180.0	897.0	272.0	cell phone	0.4462695043029292	0.1606339913338644	map_ar_2.jpg	446353	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+566877.0	717	560.0	973.0	242.0	cell phone	0.7459912056881909	0.1906056973381416	map_ar_2.jpg	446743	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+567307.0	718	260.0	881.0	283.0	cell phone	0.5499033170340583	0.23204189655154905	map_ar_2.jpg	447173	map_ar	 Okay , we're gonna make a note of that.	568624.0	6930.0
+568837.0	719	2719.0	922.0	402.0	cell phone	0.4437888926078413	0.4804970968281012	map_ar_2.jpg	448703	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+570966.0	720	1380.0	941.0	393.0	cell phone	0.4386091208736803	0.4558998148688078	map_ar_2.jpg	450832	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+572546.0	721	1560.0	939.0	413.0	cell phone	0.4862757404028364	0.5738299024026653	map_ar_2.jpg	452412	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+573676.0	722	620.0	981.0	332.0	cell phone	0.9283654688648056	0.4813914114882595	map_ar_2.jpg	453542	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+574126.0	723	180.0	938.0	482.0	cell phone	0.8053974020858359	0.7010871475658397	map_ar_2.jpg	453992	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+574336.0	724	160.0	930.0	327.0	cell phone	0.8546921628757324	0.4440063258495359	map_ar.jpg	454202	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+574606.0	725	300.0	942.0	500.0	cell phone	0.7943723042972561	0.7068322484956588	map_ar.jpg	454472	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+575565.0	726	1580.0	934.0	345.0	cell phone	0.7037563390541103	0.4309085752643141	map_ar.jpg	455431	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+576735.0	727	720.0	844.0	294.0	cell phone	0.2460802357164252	0.2519085532316317	map_ar.jpg	456601	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+577245.0	728	220.0	1028.0	449.0	cell phone	0.8939469729160536	0.6481541078309414	photo_itc.jpg	457111	info	 Have you notes Just to make sure.	604134.0	2210.0
+577905.0	729	780.0	891.0	221.0	cell phone	0.15488934847889554	0.2132146909443136	take_note.jpg	457771	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+578505.0	730	340.0	990.0	474.0	cell phone	0.5797885248153514	0.6827214966543586	map_ar.jpg	458371	map_ar	 Have you notes Just to make sure.	604134.0	2210.0
+579334.0	731	1280.0	912.0	413.0	cell phone	0.5100422977526367	0.5905023818939218	take_note.jpg	459200	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+580374.0	732	760.0	865.0	507.0	cell phone	0.3887392188322557	0.7276745106609119	take_note.jpg	460240	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+580814.0	733	80.0	894.0	410.0	cell phone	0.4606752212355385	0.5853943533169372	take_note.jpg	460680	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+581154.0	734	520.0	849.0	238.0	cell phone	0.289317102101533	0.2724843569068344	take_note.jpg	461020	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+581934.0	735	920.0	946.0	427.0	cell phone	0.6618226270148169	0.6209175835067696	take_note.jpg	461800	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+582494.0	736	180.0	826.0	438.0	cell phone	0.4008512732485682	0.6027536084379835	take_note.jpg	462360	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+582854.0	737	480.0	841.0	271.0	cell phone	0.32564578443731484	0.2468585690007727	take_note.jpg	462720	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+583213.0	738	200.0	982.0	332.0	cell phone	0.8431252561056836	0.33979502088504737	take_note.jpg	463079	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+583693.0	739	740.0	854.0	306.0	cell phone	0.3567889019338313	0.2350313505786225	take_note.jpg	463559	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+584683.0	740	1100.0	841.0	267.0	cell phone	0.2023340429912817	0.15865258655645015	view_note.jpg	464549	view_note	 Have you notes Just to make sure.	604134.0	2210.0
+585793.0	741	1000.0	916.0	418.0	cell phone	0.5599966068251357	0.7118616750629989	view_note.jpg	465659	view_note	 Have you notes Just to make sure.	604134.0	2210.0
+586433.0	742	240.0	857.0	374.0	cell phone	0.4867927335463752	0.4954632732027608	take_note.jpg	466299	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+586903.0	743	620.0	774.0	214.0	cell phone	0.15655554310189498	0.11818416540478345	take_note.jpg	466769	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+587372.0	744	200.0	887.0	466.0	cell phone	0.30572480334478164	0.6137997086720903	take_note.jpg	467238	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+587642.0	745	100.0	888.0	444.0	cell phone	0.3668002425753754	0.6345267729109614	take_note.jpg	467508	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+588202.0	746	740.0	847.0	175.0	cell phone	0.2556190458472393	0.15789421581242294	take_note.jpg	468068	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+588822.0	747	300.0	887.0	228.0	cell phone	0.2953102219656196	0.13392629343012394	take_note.jpg	468688	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+589152.0	748	120.0	885.0	249.0	cell phone	0.2843832291067069	0.15266006100905913	take_note.jpg	469018	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+589372.0	749	200.0	986.0	525.0	cell phone	0.5612731916209399	0.6898873545225289	take_note.jpg	469238	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+590512.0	750	2039.0	884.0	467.0	cell phone	0.509187929571853	0.5969484202138792	take_note.jpg	470378	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+592301.0	751	1200.0	921.0	489.0	cell phone	0.6603988351245428	0.6236875908171856	take_note.jpg	472167	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+593041.0	752	260.0	964.0	458.0	cell phone	0.8169917037662192	0.6285975050080035	take_note.jpg	472907	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+593991.0	753	1620.0	858.0	502.0	cell phone	0.437548677503476	0.6735320161001976	take_note.jpg	473857	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+594911.0	754	160.0	937.0	468.0	cell phone	0.7291110609900677	0.5954827904351438	take_note.jpg	474777	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+595321.0	755	580.0	882.0	226.0	cell phone	0.7447018831913708	0.12627604597106976	take_note.jpg	475187	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+595841.0	756	380.0	750.0	263.0	cell phone	0.07659002993805357	0.13956850277506133	take_note.jpg	475707	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+596270.0	757	240.0	974.0	512.0	cell phone	0.7342172874847963	0.6384208842755863	take_note.jpg	476136	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+596530.0	758	200.0	830.0	511.0	cell phone	0.35654892063092525	0.6968613169459262	take_note.jpg	476396	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+597370.0	759	1440.0	877.0	458.0	cell phone	0.483379479602745	0.6730903251841371	take_note.jpg	477236	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+598380.0	760	420.0	790.0	238.0	cell phone	0.2816088068453997	0.18061647553062046	take_note.jpg	478246	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+598790.0	761	320.0	930.0	504.0	cell phone	0.631311900521942	0.5974738611154217	take_note.jpg	478656	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+599040.0	762	100.0	744.0	241.0	cell phone	0.11780104712041885	0.13915857605177995	take_note.jpg	478906	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+599440.0	763	620.0	919.0	488.0	cell phone	0.5858247870854322	0.6027021103380512	take_note.jpg	479306	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+599920.0	764	300.0	937.0	457.0	cell phone	0.7066284429447484	0.6074738475111839	take_note.jpg	479786	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+600289.0	765	360.0	823.0	503.0	cell phone	0.30368055226989554	0.7157187805485087	take_note.jpg	480155	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+601349.0	766	1600.0	891.0	232.0	cell phone	0.1620879589496684	0.02213615494260876	take_note.jpg	481215	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+602379.0	767	280.0	948.0	304.0	cell phone	0.3463687150837989	0.1938610662358643	take_note.jpg	482245	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+602609.0	768	160.0	1035.0	305.0	cell phone	0.6088753277647917	0.1822290901191711	take_note.jpg	482475	take_note	 Have you notes Just to make sure.	604134.0	2210.0
+603389.0	769	1340.0	931.0	390.0	cell phone	0.7389820663115974	0.5443254488857768	view_note.jpg	483255	view_note	 Have you notes Just to make sure.	604134.0	2210.0
+604328.0	770	320.0	893.0	307.0	cell phone	0.5438361216030918	0.3131802939244259	map_ar.jpg	484194	map_ar	 Okay.	607234.0	410.0
+604938.0	771	660.0	856.0	290.0	cell phone	0.2630177486414314	0.2044936080966492	map_ar.jpg	484804	map_ar	 Okay.	607234.0	410.0
+605688.0	772	800.0	890.0	316.0	cell phone	0.2089331925542605	0.2845847558269642	map_ar.jpg	485554	map_ar	 Okay.	607234.0	410.0
+606308.0	773	400.0	875.0	224.0	surroundings				0	surroundings	 Okay.	607234.0	410.0
+606928.0	774	800.0	924.0	359.0	cell phone	0.3447416090013561	0.2889335936249047	view_note.jpg	486794	view_note	 Okay.	607234.0	410.0
+607538.0	775	180.0	886.0	237.0	cell phone	0.20744019981449272	0.17969532169932328	view_note.jpg	487404	view_note	 No , I'm gonna start ordering my notes just for my own sick.	608104.0	2640.0
+607758.0	776	100.0	994.0	329.0	cell phone	0.5350700039667068	0.27829153113700456	view_note.jpg	487624	view_note	 No , I'm gonna start ordering my notes just for my own sick.	608104.0	2640.0
+608218.0	777	620.0	1032.0	476.0	cell phone	0.6088235294117647	0.4672	view_note.jpg	488084	view_note	 So I've taken to so far.	611294.0	1350.0
+609177.0	778	220.0	1041.0	137.0	surroundings				0	surroundings	 So I've taken to so far.	611294.0	1350.0
+609537.0	779	100.0	1231.0	134.0	surroundings				0	surroundings	 So I've taken to so far.	611294.0	1350.0
+609847.0	780	480.0	1087.0	124.0	surroundings				0	surroundings	 So I've taken to so far.	611294.0	1350.0
+610397.0	781	100.0	1002.0	701.0	cell phone	0.3272047001561825	0.6552887139155051	map_ar.jpg	490263	map_ar	 So I've taken to so far.	611294.0	1350.0
+610667.0	782	360.0	1056.0	460.0	cell phone	0.5892684947095995	0.2629781745113908	map_ar.jpg	490533	map_ar	 So I've taken to so far.	611294.0	1350.0
+611027.0	783	320.0	1075.0	431.0	cell phone	0.5590906675740145	0.3528196965127712	map_ar.jpg	490893	map_ar	 So I've taken to so far.	611294.0	1350.0
+612557.0	784	160.0	1011.0	439.0	cell phone	0.5174762949257655	0.3801830353958173	map_ar.jpg	492423	map_ar	 All right , so I'm gonna head back to the , ah , the area with the textile industry.	614534.0	5250.0
+612796.0	785	260.0	933.0	392.0	cell phone	0.2713729439096508	0.5612040337743422	map_ar.jpg	492662	map_ar	 All right , so I'm gonna head back to the , ah , the area with the textile industry.	614534.0	5250.0
+613076.0	786	220.0	940.0	157.0	cell phone	0.1948978000651589	0.12725284277935345	map_ar.jpg	492942	map_ar	 All right , so I'm gonna head back to the , ah , the area with the textile industry.	614534.0	5250.0
+613636.0	787	880.0	944.0	414.0	cell phone	0.5605487232203126	0.5513653713279325	map_ar.jpg	493502	map_ar	 All right , so I'm gonna head back to the , ah , the area with the textile industry.	614534.0	5250.0
+614916.0	788	1500.0	1043.0	401.0	cell phone	0.585668968500761	0.5500128445645359	view_note.jpg	494782	view_note	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+616146.0	789	80.0	1460.0	354.0	cell phone	0.914327748874267	0.3533333073112325	view_note.jpg	496012	view_note	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+616655.0	790	700.0	1072.0	402.0	cell phone	0.6532520751238938	0.4714562440269638	view_note.jpg	496521	view_note	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+617245.0	791	440.0	926.0	460.0	cell phone	0.5150602409638554	0.4601328903654485	view_note.jpg	497111	view_note	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+617685.0	792	280.0	931.0	416.0	cell phone	0.3961584006906321	0.5087881248552499	view_note.jpg	497551	view_note	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+618225.0	793	760.0	992.0	435.0	cell phone	0.5565821502355991	0.4919618378759377	map_ar.jpg	498091	map_ar	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+619475.0	794	1580.0	983.0	420.0	cell phone	0.6523076923076923	0.7016949152542373	map_ar.jpg	499341	map_ar	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+620895.0	795	340.0	1146.0	29.0	surroundings				0	surroundings	 This is an area and less familiar with , and I'm primarily just using the map right now , although I know where I'm going.	621074.0	8670.0
+621124.0	796	80.0	1046.0	48.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+621644.0	797	200.0	1139.0	549.0	cell phone	0.5864066426371171	0.5002267910901173	map_ar.jpg	501510	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+623204.0	798	2879.0	982.0	452.0	cell phone	0.5636431519301263	0.5148596571549965	map_ar.jpg	503070	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+625014.0	799	700.0	1002.0	396.0	cell phone	0.6149068322981367	0.7168784029038112	map_ar.jpg	504880	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+625523.0	800	240.0	966.0	210.0	cell phone	0.409664138189959	0.14136560443060453	map_ar.jpg	505389	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+625783.0	801	240.0	942.0	305.0	cell phone	0.6141666906033574	0.2747545053183495	map_ar.jpg	505649	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+626513.0	802	1140.0	968.0	445.0	cell phone	0.5114285714285715	0.527363184079602	map_ar.jpg	506379	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+627763.0	803	520.0	1066.0	213.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+628163.0	804	120.0	1111.0	202.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+628413.0	805	220.0	1088.0	133.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+628603.0	806	120.0	1107.0	46.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+628993.0	807	180.0	1045.0	561.0	cell phone	0.3921272184753073	0.5004089484656383	map_ar.jpg	508859	map_ar	 So I should just I should probably Yeah.	629754.0	3100.0
+629602.0	808	320.0	1160.0	42.0	surroundings				0	surroundings	 So I should just I should probably Yeah.	629754.0	3100.0
+630972.0	809	1900.0	938.0	383.0	cell phone	0.4727272727272727	0.5227272727272727	view_note.jpg	510838	view_note	 So the ITC So I'm just gonna return to the ITC building without paying too much attention to the map.	632864.0	7180.0
+632242.0	810	600.0	911.0	268.0	surroundings				0	surroundings	 So the ITC So I'm just gonna return to the ITC building without paying too much attention to the map.	632864.0	7180.0
+632952.0	811	760.0	967.0	393.0	cell phone	0.4738427587606611	0.4070640412942271	view_note.jpg	512818	view_note	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+634022.0	812	1100.0	1017.0	439.0	cell phone	0.5720683514771177	0.5142028057663871	info_itc.jpg	513888	info	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+635641.0	813	80.0	225.0	86.0	others				0	others	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+636751.0	814	380.0	1338.0	19.0	building				0	building	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+637661.0	815	840.0	1067.0	405.0	cell phone	0.5726909619743928	0.5530996260484583	map_ar.jpg	517527	map_ar	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+638161.0	816	120.0	999.0	315.0	cell phone	0.5498575498575499	0.20603907637655414	map_ar.jpg	518027	map_ar	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+638610.0	817	260.0	1107.0	149.0	building				0	building	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+639010.0	818	420.0	1144.0	158.0	surroundings				0	surroundings	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+639400.0	819	120.0	1188.0	102.0	surroundings				0	surroundings	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+643329.0	820	140.0	297.0	82.0	building				0	building	 So I would have guessed Menzis was like an ice cream.	644894.0	3450.0
+645279.0	821	200.0	1147.0	316.0	surroundings				0	surroundings	 Yeah , I had no idea was insurance , so I'm learning something.	649934.0	5230.0
+645499.0	822	160.0	1082.0	462.0	surroundings				0	surroundings	 Yeah , I had no idea was insurance , so I'm learning something.	649934.0	5230.0
+645999.0	823	160.0	1115.0	681.0	cell phone	0.555921052631579	0.1703056768558952	map_ar.jpg	525865	map_ar	 Yeah , I had no idea was insurance , so I'm learning something.	649934.0	5230.0
+648758.0	824	160.0	1284.0	484.0	surroundings				0	surroundings	 Yeah , I had no idea was insurance , so I'm learning something.	649934.0	5230.0
+650967.0	825	380.0	370.0	339.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+651677.0	826	80.0	1384.0	4.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+652237.0	827	120.0	1128.0	10.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+652665.0	828	300.0	1065.0	20.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+652947.0	829	220.0	1012.0	43.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+653837.0	830	80.0	995.0	208.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+654077.0	831	360.0	1117.0	287.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+654397.0	832	200.0	1215.0	215.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+655576.0	833	80.0	1212.0	393.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+655746.0	834	100.0	1169.0	299.0	surroundings				0	surroundings	 At first I thought it was a restaurant.	655884.0	1460.0
+656496.0	835	840.0	1171.0	50.0	surroundings				0	surroundings	 So when I first got here , Yeah , I'm seeing people give me strange looks for wearing these glasses.	658294.0	10530.0
+657146.0	836	340.0	1148.0	15.0	surroundings				0	surroundings	 So when I first got here , Yeah , I'm seeing people give me strange looks for wearing these glasses.	658294.0	10530.0
+657406.0	837	100.0	1165.0	6.0	surroundings				0	surroundings	 So when I first got here , Yeah , I'm seeing people give me strange looks for wearing these glasses.	658294.0	10530.0
+659055.0	838	80.0	1291.0	420.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+659355.0	839	200.0	1137.0	370.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+659555.0	840	80.0	1082.0	803.0	cell phone	0.3912518413728776	0.325816015297607	map_ar.jpg	539421	map_ar	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+660155.0	841	200.0	944.0	221.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+661025.0	842	180.0	1178.0	21.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+661435.0	843	80.0	1248.0	24.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+661925.0	844	140.0	1542.0	39.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+662689.5	845	140.0	749.0	470.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+663325.0	846	180.0	1067.0	44.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+665504.0	847	300.0	1174.0	148.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+665854.0	848	80.0	1404.0	94.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+665984.0	849	140.0	1485.0	31.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+666394.0	850	80.0	721.0	61.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+667084.0	851	100.0	388.0	212.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+667354.0	852	80.0	1228.0	295.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+667694.0	853	80.0	1252.0	66.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+667814.0	854	80.0	1168.0	79.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+668073.5	855	320.0	1047.0	54.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+668433.0	856	160.0	1127.0	9.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+669043.0	857	260.0	911.0	612.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+670383.0	858	540.0	1197.0	147.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+670803.0	859	180.0	1447.0	179.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+670963.0	860	100.0	1334.0	118.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+671193.0	861	160.0	1347.0	71.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+671953.0	862	80.0	925.0	29.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+672212.0	863	80.0	1123.0	56.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+672702.0	864	600.0	1127.0	89.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+673172.0	865	240.0	871.0	160.0	surroundings				0	surroundings	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+673962.0	866	640.0	1037.0	133.0	building				0	building	 They probably think they're being recorded on Google Glass , but okay , so I didn't actually click on the ITC building.	674404.0	18940.0
+675212.0	867	120.0	209.0	254.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+677141.0	868	100.0	674.0	90.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+677551.0	869	240.0	989.0	160.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+677751.0	870	120.0	886.0	162.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+678001.0	871	100.0	738.0	193.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+678691.0	872	680.0	612.0	153.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+679331.0	873	80.0	1239.0	500.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+679511.0	874	200.0	1119.0	272.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+679741.0	875	180.0	1109.0	124.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+680830.0	876	800.0	853.0	129.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+681410.0	877	240.0	810.0	144.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+682000.0	878	340.0	1074.0	306.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+682440.0	879	420.0	961.0	188.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+682850.0	880	380.0	1016.0	224.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+683480.0	881	140.0	919.0	44.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+683660.0	882	140.0	660.0	50.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+683810.0	883	140.0	784.0	84.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+684210.0	884	480.0	890.0	133.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+684729.0	885	520.0	833.0	205.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+685439.0	886	340.0	1095.0	164.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+685739.0	887	140.0	606.0	230.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+685949.0	888	240.0	611.0	211.0	others				0	others	 I didn't realize I had been there and been there already.	694374.0	3620.0
+686259.0	889	180.0	754.0	194.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+686429.0	890	120.0	810.0	167.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+686619.0	891	180.0	941.0	331.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+686969.0	892	480.0	871.0	224.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+687349.0	893	240.0	934.0	187.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+687729.0	894	400.0	1080.0	138.0	building				0	building	 I didn't realize I had been there and been there already.	694374.0	3620.0
+688199.0	895	380.0	739.0	77.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+688449.0	896	80.0	779.0	112.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+688659.0	897	300.0	791.0	93.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+689009.0	898	160.0	866.0	215.0	surroundings				0	surroundings	 I didn't realize I had been there and been there already.	694374.0	3620.0
+690748.0	899	120.0	1018.0	499.0	cell phone	0.4780677136360147	0.2749985359358813	view_note.jpg	570614	view_note	 I didn't realize I had been there and been there already.	694374.0	3620.0
+692368.0	900	3039.0	966.0	393.0	cell phone	0.3878902013839858	0.5411010961314966	map_ar.jpg	572234	map_ar	 I didn't realize I had been there and been there already.	694374.0	3620.0
+694007.0	901	240.0	974.0	326.0	cell phone	0.4539880586312171	0.30888979654519066	info_itc.jpg	573873	info	 I didn't realize I had been there and been there already.	694374.0	3620.0
+694437.0	902	540.0	954.0	286.0	building				0	building	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+695257.0	903	180.0	921.0	62.0	surroundings				0	surroundings	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+695577.0	904	260.0	974.0	41.0	surroundings				0	surroundings	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+696367.0	905	920.0	1004.0	419.0	cell phone	0.5448609491867735	0.3706644850478352	info_itc.jpg	576233	info	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+697007.0	906	320.0	992.0	427.0	cell phone	0.4095011830314276	0.6314186330345537	info_itc.jpg	576873	info	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+698186.0	907	960.0	1011.0	69.0	surroundings				0	surroundings	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+698946.0	908	160.0	1077.0	563.0	cell phone	0.1974792029957668	0.36661427244213496	info_itc.jpg	578812	info	 So one thing that would be really neat is if the app signaled which locations you've already been to.	699134.0	8110.0
+699146.0	909	200.0	1140.0	330.0	cell phone	0.30605931100312644	0.008129312965056458	info_itc.jpg	579012	info	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+700116.0	910	100.0	120.0	81.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+700706.0	911	360.0	956.0	409.0	cell phone	0.5759162303664922	0.2714776632302405	info_itc.jpg	580572	info	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+701006.0	912	160.0	900.0	203.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+701286.0	913	160.0	1035.0	23.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+702575.0	914	140.0	1069.0	437.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+703245.0	915	200.0	510.0	57.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+703565.0	916	80.0	762.0	8.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+704135.0	917	100.0	1352.0	522.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+704275.0	918	140.0	1364.0	554.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+704475.0	919	140.0	1286.0	605.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+704885.0	920	360.0	1302.0	309.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+705185.0	921	160.0	1226.0	176.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+706124.0	922	400.0	1053.0	834.0	cell phone	0.5046177180233572	0.5228234381956293	info_itc.jpg	585990	info	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+707124.0	923	80.0	300.0	205.0	surroundings				0	surroundings	 Both that you've already clicked information , but also were sort of geo fence was in a particular area so that you know that you've actually physically been there because that would help me determine which points I haven't been to yet.	707934.0	13270.0
+707984.0	924	120.0	1388.0	295.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+708354.0	925	540.0	1180.0	245.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+708744.0	926	80.0	1260.0	440.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+708854.0	927	100.0	1189.0	490.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+709004.0	928	160.0	1271.0	442.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+709584.0	929	120.0	1365.0	18.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+709754.0	930	180.0	1246.0	9.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+710163.0	931	240.0	1102.0	671.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+710573.0	932	100.0	1124.0	21.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+710963.0	933	520.0	1053.0	66.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+711323.0	934	80.0	1127.0	81.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+711803.0	935	400.0	1214.0	412.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+712513.0	936	340.0	1195.0	88.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+712833.0	937	160.0	937.0	70.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+713203.0	938	400.0	1021.0	130.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+713923.0	939	300.0	297.0	226.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+714802.0	940	160.0	335.0	172.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+715012.0	941	220.0	423.0	146.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+716182.0	942	440.0	1119.0	100.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+716692.0	943	300.0	1255.0	56.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+717422.0	944	440.0	1009.0	470.0	cell phone	0.538851219121412	0.4140275412439053	info_itc.jpg	597288	info	 I didn't realize that there was a point here.	722464.0	1830.0
+718052.0	945	740.0	957.0	280.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+718951.0	946	380.0	845.0	99.0	building				0	building	 I didn't realize that there was a point here.	722464.0	1830.0
+719451.0	947	180.0	1275.0	185.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+719871.0	948	620.0	1172.0	210.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+720431.0	949	300.0	1244.0	170.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+721031.0	950	540.0	985.0	407.0	cell phone	0.466887417218543	0.4246823956442831	info_itc.jpg	600897	info	 I didn't realize that there was a point here.	722464.0	1830.0
+721751.0	951	860.0	949.0	192.0	surroundings				0	surroundings	 I didn't realize that there was a point here.	722464.0	1830.0
+722540.0	952	80.0	999.0	37.0	building				0	building	 Okay.	725734.0	610.0
+722640.0	953	80.0	1161.0	17.0	building				0	building	 Okay.	725734.0	610.0
+722820.0	954	220.0	1070.0	63.0	surroundings				0	surroundings	 Okay.	725734.0	610.0
+723390.0	955	620.0	1101.0	109.0	surroundings				0	surroundings	 Okay.	725734.0	610.0
+724030.0	956	100.0	664.0	19.0	surroundings				0	surroundings	 Okay.	725734.0	610.0
+724320.0	957	80.0	1196.0	587.0	cell phone	0.8164312998866894	0.3120648468834856	info_itc.jpg	604186	info	 Okay.	725734.0	610.0
+724580.0	958	320.0	983.0	319.0	cell phone	0.5077219960417766	0.3359073281797305	info_itc.jpg	604446	info	 Okay.	725734.0	610.0
+725400.0	959	1280.0	927.0	262.0	cell phone	0.3076923076923077	0.06218487394957984	info_itc.jpg	605266	info	 Okay.	725734.0	610.0
+727560.0	960	3000.0	937.0	307.0	surroundings				0	surroundings	 Twente 19 nineties Enschede North Station.	731684.0	7120.0
+729989.0	961	1820.0	923.0	307.0	cell phone	0.439561022726596	0.07625065764882305	info_itc.jpg	609855	info	 Twente 19 nineties Enschede North Station.	731684.0	7120.0
+731389.0	962	900.0	898.0	330.0	cell phone	0.2654310054415263	0.06730220564216018	info_itc.jpg	611255	info	 Twente 19 nineties Enschede North Station.	731684.0	7120.0
+732338.0	963	800.0	914.0	339.0	cell phone	0.4780850030647111	0.0728487482044978	info_itc.jpg	612204	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+732908.0	964	280.0	824.0	331.0	cell phone	0.19262647164117647	0.10965061978136988	info_itc.jpg	612774	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+733388.0	965	660.0	944.0	325.0	cell phone	0.6377806968979306	0.07079053265220417	info_itc.jpg	613254	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+734458.0	966	1460.0	895.0	351.0	cell phone	0.5105194680765641	0.11389107284673836	info_itc.jpg	614324	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+735947.0	967	1460.0	910.0	368.0	cell phone	0.4555388432242181	0.10477281453678496	info_itc.jpg	615813	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+737717.0	968	1999.0	921.0	282.0	cell phone	0.2987589846550221	0.1648806691192604	info_itc.jpg	617583	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+739656.0	969	1840.0	942.0	300.0	cell phone	0.4774186311266736	0.1429460782159659	info_itc.jpg	619522	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+740986.0	970	780.0	891.0	297.0	cell phone	0.29772195492058745	0.2121292862457804	info_itc.jpg	620852	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+741956.0	971	1120.0	922.0	332.0	cell phone	0.4489482446033446	0.3124153346367804	info_itc.jpg	621822	info	 Okay , I've taken this picture of myself.	742934.0	3710.0
+742945.0	972	780.0	951.0	417.0	cell phone	0.4510552227956415	0.66744546046986	info_itc.jpg	622811	info	 This looks like the same map.	748424.0	1520.0
+743636.0	973	320.0	967.0	410.0	cell phone	0.2304281066183217	0.7227802705972274	info_itc.jpg	623502	info	 This looks like the same map.	748424.0	1520.0
+744685.0	974	1520.0	947.0	297.0	cell phone	0.6915315630104792	0.3679513098383704	info_itc.jpg	624551	info	 This looks like the same map.	748424.0	1520.0
+745705.0	975	380.0	965.0	428.0	cell phone	0.7494880662000933	0.8042884343503317	photo_itc.jpg	625571	info	 This looks like the same map.	748424.0	1520.0
+746555.0	976	1160.0	902.0	228.0	cell phone	0.2939555358193935	0.30096691143188065	photo_itc.jpg	626421	info	 This looks like the same map.	748424.0	1520.0
+747225.0	977	140.0	932.0	364.0	cell phone	0.5128081637546394	0.565090407376307	photo_itc.jpg	627091	info	 This looks like the same map.	748424.0	1520.0
+747715.0	978	800.0	888.0	246.0	cell phone	0.6203657152936262	0.36146065056142174	photo_itc.jpg	627581	info	 This looks like the same map.	748424.0	1520.0
+749134.0	979	1920.0	897.0	303.0	cell phone	0.5815387436579111	0.4076160072800577	info_itc.jpg	629000	info	 So this also was the former train station.	750434.0	2010.0
+750344.0	980	260.0	968.0	422.0	cell phone	0.7126354732913988	0.7475284571433591	old_map.jpg	630210	old_map	 So this also was the former train station.	750434.0	2010.0
+750974.0	981	800.0	905.0	197.0	cell phone	0.381201044386423	0.2822349570200573	old_map.jpg	630840	old_map	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+751674.0	982	400.0	928.0	254.0	cell phone	0.6639352087777577	0.3377599410504592	old_map.jpg	631540	old_map	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+752293.0	983	760.0	836.0	457.0	cell phone	0.1844155844155844	0.7312390924956371	old_map.jpg	632159	old_map	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+752903.0	984	140.0	979.0	321.0	cell phone	0.6668623369438303	0.54515457168992	old_map.jpg	632769	old_map	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+753093.0	985	160.0	924.0	187.0	cell phone	0.5352250208484879	0.2686847264290905	info_itc.jpg	632959	info	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+753283.0	986	180.0	920.0	145.0	cell phone	0.4843455011181814	0.03468245746336681	info_itc.jpg	633149	info	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+753653.0	987	520.0	823.0	136.0	surroundings				0	surroundings	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+754053.0	988	220.0	1038.0	285.0	cell phone	0.7763849602553778	0.2168457574537611	info_itc.jpg	633919	info	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+754433.0	989	480.0	914.0	364.0	cell phone	0.5161986244946444	0.4258617490837559	info_itc.jpg	634299	info	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+754803.0	990	180.0	836.0	166.0	cell phone	0.29401233675748856	0.14688436139959155	info_itc.jpg	634669	info	 Okay , this looks like it's doing a little better.	755734.0	6140.0
+756123.0	991	2419.0	946.0	235.0	cell phone	0.7180010060435313	0.18875220648559948	map_ar.jpg	635989	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+757732.0	992	720.0	1041.0	275.0	cell phone	0.8015429000743378	0.2659704710423033	view_note.jpg	637598	view_note	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+758442.0	993	620.0	1018.0	287.0	cell phone	0.6830640464070201	0.2311513820409397	map_ar.jpg	638308	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+759642.0	994	1380.0	1004.0	266.0	cell phone	0.1670554730238369	0.18086006247036907	map_ar.jpg	639508	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+760731.0	995	720.0	960.0	213.0	cell phone	0.6571115749203764	0.2894794503493423	map_ar.jpg	640597	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+761181.0	996	100.0	949.0	197.0	cell phone	0.7381576296889383	0.2642891107160856	map_ar.jpg	641047	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+761471.0	997	240.0	959.0	186.0	cell phone	0.5068977236188519	0.3038188646930659	map_ar.jpg	641337	map_ar	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+761731.0	998	200.0	700.0	141.0	building				0	building	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+762041.0	999	340.0	805.0	125.0	building				0	building	 I wonder if I think actually this protection is causing it.	762334.0	3900.0
+762421.0	1000	340.0	1064.0	127.0	cell phone	0.6588628762541806	0.2071428571428572	map_ar.jpg	642287	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+763121.0	1001	1000.0	971.0	158.0	cell phone	0.8168113866868628	0.7897808216019178	map_ar.jpg	642987	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+763761.0	1002	180.0	776.0	181.0	cell phone	0.13556338028169015	0.7387820512820513	map_ar.jpg	643627	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+764051.0	1003	180.0	289.0	304.0	building				0	building	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+764470.0	1004	400.0	1078.0	135.0	cell phone	0.1527532370464822	0.590272461519783	map_ar.jpg	644336	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+765750.0	1005	1600.0	1012.0	138.0	cell phone	0.5924657534246576	0.14862385321100918	map_ar.jpg	645616	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+767180.0	1006	1060.0	955.0	127.0	cell phone	0.1607280690243167	0.244854374575952	map_ar.jpg	647046	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+768080.0	1007	660.0	828.0	155.0	cell phone	0.8238118818181243	0.3393502122392468	map_ar.jpg	647946	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+769210.0	1008	1360.0	1008.0	205.0	cell phone	0.19099415069554587	0.1960729331543328	map_ar.jpg	649076	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+770379.0	1009	860.0	1011.0	189.0	cell phone	0.2284345047923323	0.15406976744186046	map_ar.jpg	650245	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+771129.0	1010	440.0	1040.0	204.0	cell phone	0.5677944044224158	0.23554242681614035	map_ar.jpg	650995	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+771589.0	1011	240.0	1018.0	230.0	cell phone	0.4968030629085944	0.2121953832252877	map_ar.jpg	651455	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+771819.0	1012	180.0	954.0	211.0	cell phone	0.10397620402386322	0.3268846426719996	map_ar.jpg	651685	map_ar	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+772329.0	1013	800.0	931.0	68.0	building				0	building	 Yeah , it's definitely impacting the barometer in some way.	772834.0	2710.0
+772839.0	1014	180.0	1047.0	180.0	cell phone	0.17511018887758278	0.2012222188713308	map_ar.jpg	652705	map_ar	 Um , the compass.	776434.0	2310.0
+773109.0	1015	80.0	1057.0	270.0	cell phone	0.3270427735835277	0.17595104053865565	map_ar.jpg	652975	map_ar	 Um , the compass.	776434.0	2310.0
+773468.0	1016	480.0	1059.0	233.0	cell phone	0.21702838063439064	0.1948051948051948	map_ar.jpg	653334	map_ar	 Um , the compass.	776434.0	2310.0
+774068.0	1017	300.0	951.0	301.0	cell phone	0.2978040512583445	0.3645994932155224	map_ar.jpg	653934	map_ar	 Um , the compass.	776434.0	2310.0
+774358.0	1018	220.0	1070.0	275.0	cell phone	0.216132253812533	0.1875414271380996	map_ar.jpg	654224	map_ar	 Um , the compass.	776434.0	2310.0
+774708.0	1019	360.0	1053.0	238.0	cell phone	0.7115668097907527	0.7834563656786131	map_ar.jpg	654574	map_ar	 Um , the compass.	776434.0	2310.0
+775408.0	1020	880.0	1044.0	235.0	cell phone	0.6424050632911392	0.22338568935427566	map_ar.jpg	655274	map_ar	 Um , the compass.	776434.0	2310.0
+776158.0	1021	460.0	1017.0	258.0	cell phone	0.6271130521201983	0.2434512364112357	map_ar.jpg	656024	map_ar	 Um , the compass.	776434.0	2310.0
+776578.0	1022	140.0	1009.0	271.0	cell phone	0.23786211346081484	0.1927776049374554	map_ar.jpg	656444	map_ar	 Okay , so I knew that about the ITC.	779514.0	2070.0
+778297.0	1023	2819.0	969.0	265.0	cell phone	0.4904431100516785	0.26833083252995554	map_ar.jpg	658163	map_ar	 Okay , so I knew that about the ITC.	779514.0	2070.0
+780297.0	1024	1140.0	959.0	390.0	cell phone	0.4857022780070153	0.6289447053026336	map_ar.jpg	660163	map_ar			
+782506.0	1025	2979.0	933.0	406.0	cell phone	0.3964215769261633	0.5468405428898158	map_ar.jpg	662372	map_ar			
+784186.0	1026	200.0	954.0	386.0	cell phone	0.3597733711048159	0.5242566510172144	map_ar.jpg	664052	map_ar			
+784496.0	1027	380.0	883.0	253.0	cell phone	0.008928571428571428	0.2655538694992413	map_ar.jpg	664362	map_ar			
+784856.0	1028	260.0	942.0	405.0	cell phone	0.3585434173669468	0.5397553516819572	map_ar.jpg	664722	map_ar			
+785396.0	1029	780.0	929.0	370.0	cell phone	0.4584615384615385	0.5143769968051118	map_ar.jpg	665262	map_ar			
+785955.0	1030	300.0	924.0	307.0	cell phone	0.39080962085364895	0.3324578081549661	map_ar.jpg	665821	map_ar			
+786385.0	1031	520.0	923.0	423.0	cell phone	0.44631136316609343	0.5351821813446612	map_ar.jpg	666251	map_ar			
+786715.0	1032	120.0	881.0	307.0	cell phone	0.3307462678694012	0.3512908359896165	map_ar.jpg	666581	map_ar			
