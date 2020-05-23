@@ -2,7 +2,7 @@
 
 Some mini examples of an exploratory analysis for mobile eye-tracking data collected in a mixed-methods approach for GI user research. 
 
-This is a part of MSc. Thesis *A Solution to Analyze Mobile Eye-tracking Data for GI User Research* by Yuhao (Markie) Jiang, ITC-University of Twente, Enschede, The Netherlands, June 2020
+This is a part of MSc. Thesis *A Solution to Analyze Mobile Eye-tracking Data for User Research in GI Science* by Yuhao (Markie) Jiang, ITC-University of Twente, Enschede, The Netherlands, June 2020
 
 ## Analysis based on
 
